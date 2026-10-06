@@ -1,0 +1,379 @@
+book_id;title;author;publication_year;target_age_group;character_name;character_term
+W0001;Snow White (in Grimm's Fairy Tales);Brothers Grimm;1812;8-12 years;the Queen;Queen, wicked
+W0002;Hansel and Grethel (in Grimm's Fairy Tales);Brothers Grimm;1812;8-12 years;witch;witch, old woman
+W0003;Rapunzel (in Grimm's Fairy Tales);Brothers Grimm;1812;8-12 years;Mother Gothel ;witch, old woman
+W0004;The Tinderbox;Hans Christian Andersen;1835;6-12 years;witch;witch
+W0005;The Little Mermaid (in Fairy Tales Told for Children. First Collection.);Hans Christian Andersen;1836;6-12 years;the Sea witch;witch, sorceress
+W0006;The Wild Swans  ;Hans Christian Andersen;1838;6-12 years;The Queen (stepmother);witch
+W0007;The Snow Queen;Hans Christian Andersen;1845;6-12 years;the Snow Queen;the Snow Queen
+W0008;The Enchanted Princess (in Deutsches Märchenbuch);Ludwig Bechstein;1845;6-12 years;old woman;old woman
+W0009;Frau Trude (in Grimm's Fairy Tales);Brothers Grimm;1857;8-12 years;Frau Trude ;witch 
+W0010;Mother Holle (in Grimm's Fairy Tales);Brothers Grimm;1857;8-12 years;Mother Holle;old woman 
+W0011;The Three Spinners (in Grimm's Fairy Tales);Brothers Grimm;1857;8-12 years;three spinners;strange women, three spinners
+W0012;Brother and Sister (in The Fairy Book);Dinah Maria Mulock Craik;1863;6-12 years;stepmother;witch, old woman
+W0013;The Iron Stove (in The Fairy Book);Dinah Maria Mulock Craik;1863;6-12 years;witch;witch
+W0014;The Six Swans (in The Fairy Book);Dinah Maria Mulock Craik;1863;6-12 years;witch, stepmother (the witch's daughter);witch, old woman
+W0015;Little Snowdrop (in The Fairy Book);Dinah Maria Mulock Craik;1863;6-12 years;the queen (stepmother);wiked woman, queen, stepmother
+W0016;The Necklace of Princess Fiorimonde (in The Necklace of Princess Fiorimonde and Other Stories);Mary De Morgan;1880;6-12 years;Princess Fiorimonde, witch;witch, sorceress
+W0017;Witches, Fairy Doctors (in Fairy and Folk Tales of the Irish Peasantry);W.B. Yeats;1888;6-12 years;"Sarah Kennedy, Rachel Higgins, Katey MacShane, Grace Dogherty, the 12 Horned Women (beginning with the ""Witch of the one Horn"")";witch, hag, sorceress, wretch
+W0018;Hansel and Grettel (The Blue Fairy Book);Andrew Lang (Editor);1889;6-12 years;witch;ancient dame, old woman, witch, hag
+W0019;The Black Bull of Norroway (The Blue Fairy Book);Andrew Lang (Editor);1889;6-12 years;witch;witch, old woman
+W0020;The Water-lily. The Gold Spinners (in The Blue Fairy Book);Andrew Lang;1889;6-12 years;witch;witch, old woman
+W0021;The Story of Prince Ahmed and the Fairy Paribanou (in The Blue Fairy Book) ;Andrew Lang;1889;6-12 years;magician;magician, sorceress
+W0022;the Laidly Worm of Spindleston Heugh (in English Fairy Tales);Joseph Jacobs;1890;7-12 years;the witch-queen (the stepmother);witch, queen, Laidly Toad
+W0023;Brother and Sister (The Red Fairy Book);Andrew Lang (Editor);1890;6-12 years;the stepmother;stepmother, witch, old woman
+W0024;The Enchanted Pig (The Red Fairy Book);Andrew Lang (Editor);1890;6-12 years;witch  ;witch, old woman, old dame
+W0025;The Wonderful Birch (The Red Fairy Book);Andrew Lang (Editor);1890;6-12 years;witch  ;witch
+W0026;The Enchanted Canary (The Red Fairy Book);Andrew Lang (Editor);1890;6-12 years;witch  ;witch 
+W0027;Rapunzel (The Red Fairy Book);Andrew Lang (Editor);1890;6-12 years;Dame Gothel;witch
+W0028;The Story of Sigurd (The Red Fairy Book);Andrew Lang (Editor);1890;6-12 years;the witch (Gudrun’s mother);witch 
+W0029;The Horned Women (in Celtic Fairy Tales);Joseph Jacobs;1892;12+ years;the twelve witches (The Witch of One Horn, The Witch of the Two Horns, etc.);witch, horned women
+W0030;King Kojata (The Green Fairy Book);Andrew Lang (Editor);1892;6-12 years;witch;witch 
+W0031;Puddocky (The Green Fairy Book);Andrew Lang (Editor);1892;6-12 years;witch;witch 
+W0032;The Riddle (The Green Fairy Book);Andrew Lang (Editor);1892;6-12 years;the stepmother;witch, old woman
+W0033;The Golden Lads (The Green Fairy Book);Andrew Lang (Editor);1892;6-12 years;witch;witch, old woman
+W0034;The Witch and Her Servants (in The Yellow Fairy Book) ;Andrew Lang (Editor);1894;6-12 years;Corva, wicked witch;witch, hag, old woman
+W0035;The Witch in the Stone Boat (in The Yellow Fairy Book) ;Andrew Lang (Editor);1894;6-12 years;witch;witch, troll
+W0036;The Witch (The Yellow Fairy Book);Andrew Lang (Editor);1894;6-12 years;witch ;witch, granny
+W0037;The Old Witch (in More English Fairy Tales);Joseph Jacobs;1894;6-12 years;witch ;witch
+W0038;Black Bull of Norroway (in More English Fairy Tales);Joseph Jacobs;1894;6-12 years;old witch washerwife;witch, old woman
+W0039;The Dragon of the North (in The Yellow Fairy Book);Andrew Lang;1894;6-12 years;Witch-maiden;witch
+W0040;The Three Brothers (in The Yellow Fairy Book);Andrew Lang;1894;6-12 years;witch;witch, old creature
+W0041;Esben and the Witch (The Pink Fairy Book);Andrew Lang (Editor);1897;6-12 years;witch;witch, hag
+W0042;The Snow-queen (The Pink Fairy Book);Andrew Lang (Editor);1897;6-12 years;Snow-queen;witch 
+W0043;The Two Brothers (The Pink Fairy Book);Andrew Lang (Editor);1897;6-12 years;witch  ;witch, old woman
+W0044;The White Dove (The Pink Fairy Book);Andrew Lang (Editor);1897;6-12 years;witch;witch, hag, old woman
+W0045;"The Professor of Practical Jokes (in All the Way to Fairyland:
+Fairy Stories)";Evelyn Sharp;1898;8-12 years;Wise Woman of the Wood;witch, witch woman
+W0046;Prunella (in The Grey Fairy Book);Andrew Lang (Editor);1900;6-12 years;the witch, the witch's sister;witch, old woman, mistress
+W0047;The Bear (The Grey Fairy Book);Andrew Lang (Editor) ;1900;6-12 years;the nurse;witch, nurse
+W0048;The Daughter of Buk Ettemsuch (The Grey Fairy Book);Andrew Lang (Editor);1900;6-12 years;the witch;witch
+W0049;The Wonderful Wizard of Oz (Wizard of Oz Series);L. Frank Baum ;1900;8+;Witch of the West, Witch of the North, Witch of the South (Glinda), Witch of the East;witch, wicked 
+W0050;"The Weird Witch of the Willow-Herb (in The Other Side of the Sun:
+Fairy Stories)";Evelyn Sharp;1900;8-12 years;The Weird Witch of the Willow-Herb;witch
+W0051;"Somebody Else's Prince (in The Other Side of the Sun:
+Fairy Stories)";Evelyn Sharp;1900;8-12 years;the Witch;witch
+W0052;The Nine Pea-Hens and the Golden Apples (The Violet Fairy Book);Andrew Lang (Editor);1901;6-12 years;the old witch, the old woman;witch, old woman
+W0053;The Frog (The Violet Fairy Book);Andrew Lang (Editor);1901;6-12 years;the first witch, the second witch, the third witch;witch 
+W0054;The Boy Who Could Keep A Secret (The Crimson Fairy Book);Andrew Lang (Editor);1903;6-12 years;the Sultan's aunt;witch
+W0055;The Three Robes (The Crimson Fairy Book);Andrew Lang (Editor);1903;6-12 years;Blauvor;witch, ogress, queen
+W0056;Ball-carrier and the Bad One & How Ball-carrier Finished his Task (The Brown Fairy Book);Andrew Lang (Editor);1904;6-12 years;the old grandmother, Ball-Carrier's sister in law;cunning, witch
+W0057;Asmund and Signy  (The Brown Fairy Book);Andrew Lang (Editor);1904;6-12 years;witch;witch
+W0058;The Enchanted Wreath (The Orange Fairy Book);Andrew Lang (Editor);1906;6-12 years;the old witch, the stepmother;witch, wicked 
+W0059;Pinkel the Thief (The Orange Fairy Book);Andrew Lang (Editor);1906;6-12 years;witch;witch, ugly old woman, great Troll
+W0060;The Owl and the Eagle (The Orange Fairy Book);Andrew Lang (Editor);1906;6-12 years;witch;witch, ogress
+W0061;The Bird of Truth (The Orange Fairy Book);Andrew Lang (Editor);1906;6-12 years;witch;witch 
+W0062;East o' the Sun and West o' the Moon (The Fairy Ring);Kate Douglas Wiggin and Nora Archibald Smith (eds);1906;6-12 years;the old woman/witch in the castle, the three old hags;old woman, witch, hag
+W0063;Master Tobacco (The Fairy Ring);Kate Douglas Wiggin and Nora Archibald Smith (eds);1906;6-12 years;the three old witch sisters;old hag, old witch
+W0064;Yvon and Finette (The Fairy Ring);Kate Douglas Wiggin and Nora Archibald Smith (eds);1906;6-12 years;Finette, the Fair-haired Lady (the Giant’s godmother);witch, hag, sorceress
+W0065;The Wild Swans (The Fairy Ring);Kate Douglas Wiggin and Nora Archibald Smith (eds);1906;6-12 years;the Wicked Queen;witch, wicked 
+W0066;The Little Brother and Sister (The Fairy Ring);Kate Douglas Wiggin and Nora Archibald Smith (eds);1906;6-12 years;the stepmother;witch, wicked, old woman 
+W0067;Rapunzel (The Fairy Ring);Kate Douglas Wiggin and Nora Archibald Smith (eds);1906;6-12 years;Mother Gothel;witch
+W0068;Jackal or Tiger? (The Olive Fairy Book);Andrew Lang (Editor);1907;6-12 years;The Ogress/Witch of Witchland;witch, ogress
+W0069;The Story of Zoulvisia (The Olive Fairy Book);Andrew Lang (Editor);1907;6-12 years;witch;witch, crone, old woman
+W0070;The Knights of the Fish (Tales of Wonder Every Child Should Know);Kate Douglas Wiggin and Nora Archibald Smith (eds);1909;6-12 years;Lady Berberisca;witch, old woman
+W0071;The Bird of Truth (Tales of Wonder Every Child Should Know);Kate Douglas Wiggin and Nora Archibald Smith (eds);1909;6-12 years;witch;witch, wretch
+W0072;East o' the Sun and West o' the Moon (in East o' the Sun and West o' the Moon with other Norwegian Folk Tales);Gudrun Thorne-Thomsen (Editor);1910;6-12 years;wicked witch, unnamed witches;witch, hag, troll
+W0073;The Twelve Wild Ducks (in East o' the Sun and West o' the Moon with other Norwegian Folk Tales);Gudrun Thorne-Thomsen (Editor);1910;6-12 years;witch;witch, hag, troll, old dame, old woman
+W0074;The Fir-Tree Fairy Book: Favourite Fairy Tales;Clifton Johnson (Editor);1912;6-12 years;Tormentilla, unnamed witches;witch, old woman 
+W0075;The King of the Fishes (in European Folk and Fairy Tales);Joseph Jacobs;1916;7-12 years;witch;witch, old dame
+W0076;Johnnie and Grizzle (in European Folk and Fairy Tales);Joseph Jacobs;1916;7-12 years;witch ;witch, old woman
+W0077;Nix Naught Nothing (in English Fairy Tales);Flora Annie Steel;1918;8-12 years;hen-wife;witch
+W0078;The Two Sisters (in English Fairy Tales);Flora Annie Steel;1918;8-12 years;witch-woman;witch
+W0079;The Laidly Worm (in English Fairy Tales);Flora Annie Steel;1918;8-12 years;stepmother, Queen;witch
+W0080;The Black Bull of Norroway (in English Fairy Tales);Flora Annie Steel;1918;8-12 years;witch-woman, witch-bride;witch
+W0081;The Sleeping Beauty in the Wood (in The Fairy Tales of Charles Perrault);Charles Perrault, Thomas Bodkin (Ed);1922;6-12 years;The Old Fairy, the Queen-Mother;Old Fairy, ogress, wicked Queen
+W0082;Peronel's Magic Polish (in The Teacher's Treasury);Enid Blyton;1926;5-10 years;Wizened Witch;witch
+W0083;Peter Penny (in The Teacher’s Treasury);Enid Blyton;1926;5-10 years;Witch Wimple, witch;witch
+W0084;The Dog, the Cat and the Duck (in The Teacher’s Treasury);Enid Blyton;1926;5-10 years;witch;witch
+W0085;The Flyaway Brooms (he Teachers World, No. 1180);Enid Blyton;1926;5-10 years;Broomstick Witch;witch
+W0086;"Redcap and the Broomstick Witch (in The
+Teacher's Treasury)";Enid Blyton;1926;5-10 years;Broomstick Witch;witch, old woman
+W0087;The Gobble-Up Witch (in Sunny Stories for Little Folks, No. 26);Enid Blyton;1927;5-10 years;Gobble-Up;witch
+W0088;Little Marya and the Witch (in Sunny Stories for Little Folks, No. 14);Enid Blyton;1927;5-10 years;witch;witch
+W0089;"Too Wise the Wizard (in Sunny Stories for
+Little Folks, No. 78)";Enid Blyton;1929;5-10 years;Greeneye, witch;witch
+W0090;"Wizard Grumpity-Groo (in Sunny Stories for
+Little Folks, No. 98)";Enid Blyton;1930;5-10 years;Gloomy;witch
+W0091;"The Enchanted Forest (in Sunny Stories for
+Little Folks, No. 153)";Enid Blyton;1932;5-10 years;Dame Trantrums, unnamed witch;witch
+W0092;"Mr Wiggle’s Scissors (in Sunny Stories for
+Little Folks, No. 141)";Enid Blyton;1932;5-10 years;Witch Greeneye;witch
+W0093;"The Little Pixie-Cat (in Sunny Stories for Little
+Folks, No. 170)";Enid Blyton;1933;5-10 years;Green Witch;witch
+W0094;The Enchanted Shoes (in Sunny Stories for Little Folks);Enid Blyton;1934;5-10 years;Witch Twindle;witch
+W0095;The Wrong Side of the Bed (in The Teachers World n. 1637);Enid Blyton;1934;5-10 years;witch  ;witch
+W0096;The Little Witch-Dog (in Sunny Stories for Little Folks, No. 198);Enid Blyton;1934;5-10 years;Pernickety Witch;witch, mistress
+W0097;"Bubbly's Trick (in Sunny Stories for Little
+Folks, No. 244)";Enid Blyton;1936;5-10 years;Greeneye Witch;witch
+W0098;"The Dog that Helped a Fairy (in Sunny Stories
+for Little Folks, No. 234)";Enid Blyton;1936;5-10 years;green-eyed witch, Dame Tweedles;witch, aunt, dame
+W0099;"It's Going to Rain! (in The Teacher's World,
+No. 1,724)";Enid Blyton;1936;5-10 years;Witch Green-Eyes;witch
+W0100;The Brownie and the Witch (in The Teachers World, n. 1784);Enid Blyton;1937;5-10 years;Deep-One;witch
+W0101;"Mr Hoo-Ha’s New Suit (in Enid Blyton’s
+Sunny Stories, No. 51)";Enid Blyton;1937;5-10 years;Smiling Witch;witch, dame
+W0102;The Sword in the Stone (Once and Future King);T. H. White;1938;10-15 years;Madame Mim;witch, hag 
+W0103;The Enchanted Button (in Sunny Stories, No. 148);Enid Blyton;1939;5-10 years;Witch See-a-Lot;witch
+W0104;Gobbolino the Witch’s Cat;Ursula Moray Williams;1942;7-10 years;unnamed witches, sea witch, Old Granny Dobbin, pedlar-woman;witch, hag, mistress, crone
+W0105;The Lion, The Witch, and The Wardrobe;C.S. Lewis;1950;8+;Jadis (the White Witch, Queen of Narnia), Hags;witch, hag, queen, majesty
+W0106;Little Witch;Anna Elizabeth Bennett;1953;6-12 years;"Minikin ""Minx"", Madam Snickasnee";witch
+W0107;Pink! Pink! (in Enid Blyton’s Magazine, No. 9);Enid Blyton;1954;5-10 years;Green-Eyes;witch
+W0108;Bed-Knob and Broomstick;Mary Norton;1957;8-12 years;Miss Eglantine Price, the Witch Doctor ;witch
+W0109;The Witch of Blackbird Pond;Elizabeth George Speare;1958;9–12 years;Hannah Tupper, Kit Tyler, Goody Harrison;witch
+W0110;Wobble, the Witch Cat;Mary Calhoun;1958;2-6 years;Maggie;witch 
+W0111;The Littlest Witch;Jeanne Massey;1959;4-8 years ;Littlest Witch, Oldest Witch, Tallest Witch, Ugliest Witch, Fattest Witch, Grouchiest Witch;witch
+W0112;The Weirdstone of Brisingamen;Alan Garner;1960;11+;Selina Place (The Morrigan, the Third Bane of Logris), the Morthbrood;witch, shape-shifter
+W0113;Witch of the Glens;Sally Watson;1962;8-12 years;Mina Faw, Kelpie, Morag Mhor, coven witches;witch, briosag, hag, minion of Satan
+W0114;Old Black Witch! ;Wende Devlin;1963;3-8 years;Old Black Witch;witch
+W0115;Witch World (Witch World Series);Andre Norton;1963;12+;Jaelithe, the Guardian;witch, wise woman, woman of power
+W0116;Dorrie and the Blue Witch (Dorrie the Little Witch Series);Patricia Coombs;1964;2-8 years;Dorrie, the Big Witch (Dorrie's mother), the Blue Witch (Mildred), other unnamed witches;witch
+W0117;The Book of Three (The Chronicles of Prydain);Lloyd Alexander;1964;8-12 years;Queen Achren, Princess Eilonwy ;witch, enchantress 
+W0118;A Book of Witches;Ruth Manning Sanders;1966;5-12 years;witches;witch, old woman, hag
+W0119;Baba Yaga ;Ernest Small;1966;4-8 years ;Baba Yaga ;old woman, hag
+W0120;Jennifer, Hecate, Macbeth, William McKinley, and Me, Elizabeth;E.L. Konigsburg;1967;8-12 years;Jennifer, Elizabeth, Hecate, the three witches from Macbeth;witch
+W0121;Thomas and the Warlock;Mollie Hunter;1967;8-12 years;storm-wife;witch
+W0122;A Wizard of Earthsea (Earthsea Cycle Series);Ursula K. Le Guin;1968;12+;Duny’s Aunt (The Witch of Ten Alders), Serret (the daughter of the Lord of Re Albi/Lady of the Terrenon), the Witchwoman of Tesk Isle;witch, sorceress, enchantress
+W0123;The Witch Next Door (The Witch Next Door Series);Norman Bridwell;1969;4-8 years ;witch;witch
+W0124;The Old Witch Goes to the Ball (The Old Witch Series) ;Ida DeLage;1969;4-8 years ;The Old Witch;witch
+W0125;Tilly Witch;Don Freeman;1969;4-8 years;Tilly Ipswitch, Miss Fitch, student witches;witch, Queen of Halloween
+W0126;The Wednesday Witch;Ruth Chew;1969;7-10 years;Hilda ;witch
+W0127;Old Witch and the Polka-Dot Ribbon;Wende Devlin;1970;3-8 years;Old Witch;witch
+W0128;Melric the Magician Who Lost His Magic (Melric the Magician Series) ;David McKee;1970;3-5 years ;Mertel;witch
+W0130;The Little Leftover Witch;Florence Laughlin;1971;8-12 years;Felina, unnamed witches;witch
+W0131;No Such Thing As A Witch;Ruth Chew;1971;7-10 years;Maggie Brown (Mrs. Brown);witch
+W0132;A Woggle of Witches;Adrienne Adams;1971;4-8 years;witches;witch 
+W0133;The Witches of Worm;Zilpha Keatley Snyder;1972;10-13 years;Jessica;witch
+W0134;Old Witch Rescues Halloween!;Wende Devlin;1972;3-8 years;Old Witch;witch
+W0135;The Wicked Wizard & The Wicked Witch;Seymour Leichman;1972;4-8 years ;the wicked witch;witch
+W0136;Meg and Mog;Helen Nicoll;1972;2-5 years;Meg;witch
+W0137;Mrs. Beggs and the Wizard;Mercer Mayer;1972;2-8 years;Mrs. Beggs, Great Aunt Celia;
+W0138;What the Witch Left;Ruth Chew;1973;7-10 years;Aunt Martha;witch
+W0139;Suppose You Met A Witch;Ian Serraillier;1973;4-8 years ;Grimblegrum;witch
+W0140;The House with a Clock in Its Walls (Lewis Barnavelt Series);John Bellairs ;1973;8-11 years;Mrs. Florence Zimmermann, Selenna Izard, Mrs O'Meagher;witch, hag 
+W0142;The Witch's Buttons;Ruth Chew;1974;7-10 years;Betsy ;witch
+W0143;The Halloween Party;Lonzo Anderson;1974;4-8 years ;the first witch, the second witch, the clumsy/flying witch, the littlest witch, the biggest witch;witch
+W0144;The Worst Witch (The Worst Witch Series);Jill Murphy;1974;5-10 years;Mildred Hubble, Maud Spellbody, Miss Cackle, Miss Hardbroom, Ethel Hallow, Agatha and her coven, Harriet;witch 
+W0145;The Mysterious Appearance of Agnes;Helen Griffiths;1975;12-14 years;Agnes, Lina;witch, changeling
+W0146;Strega Nona: An Old Tale;Tomie de Paola;1975;4-8 years ;Strega Nona, Strega Amelia;Grandma Witch, old lady
+W0147;Witch in the House;Ruth Chew;1975;7-10 years;Sally;witch, old woman, wise woman
+W0148;Witch Poems;Daisy Wallace (Editor);1976;7+;First Witch, Second Witch, Miss Trust, Lazy Witch, The Wee Woolly Witchie of Whistlewood Way, Old Moll, Mizzable Scratch, unnamed witches;witch, hag, sorceress, crone, fierce furies, conjurer
+W0149;The Would-Be Witch;Ruth Chew;1976;7-10 years;Zelda, Hester Blackstone, Edna, the coven members;witch, old woman
+W0150;Witch's Broom;Ruth Chew;1977;7-10 years;the Purple Witch, Beryl;witch, old woman
+W0151;Charmed Life (Chronicles of Chrestomanci);Diana Wynne Jones;1977;9+;Gwendolen Chant, Mrs Ellen Sharp, Miss Larkins, the Soothsayer, the Fortune-Teller, the Diviner, Janet Chant;witch
+W0152;The Witch's Garden;Ruth Chew;1978;7-10 years;Mrs. Muldoon, Aunt Martha ;witch
+W0153;Which Witch?;Eva Ibbotson;1979;8-12 years;Madame Olympia, Belladonna, Mabel Wrack, Ethel Feedbag, Nancy & Nora Shouter;witch, enchantress, hag, crone
+W0154;The Candy Witch;Steven Kroll;1979;4-8 years ;Maggie, Mama Witch;witch, Candy Witch
+W0155;A Halloween Happening;Adrienne Adams;1981;4-8 years ;Wanda Witch, unnamed witches;witch
+W0156;Witches;Colin Hawkins;1981;6-10 years;granny, witches;witch
+W0157;The Princess Who Stood on Her Own Two Feet;Jeanne Desy;1982;8-12 years;the Witch  ;witch
+W0158;Rapunzel;Barbara Rogasky;1982;4-10 years ;Mother Gothel;witch
+W0159;The Witches ;Roald Dahl;1983;8-12 years;"Grand High Witch, the ""Ancient Ones"", Mildred";witch
+W0160;Bony-Legs;Joanna Cole;1983;4-8 years ;Bony-legs;witch 
+W0161;The Changeover: a Supernatural Romance;Margaret Mahy;1984;13+;"Laura Chant, Sorensen ""Sorry"" Carlisle (male witch), Miryam Carlisle, Winter Carlisle, the witch doctor";witch, daughters of the moon, moon woman
+W0162;The Witch at the Window;Ruth Chew;1984;7-10 years;Stella;witch
+W0163;Archer's Goon;Diana Wynne Jones;1984;10-14 years;Dillian;enchantress, hag
+W0164;The Hero and the Crown (Damar Series);Robin McKinley;1984;10-14 years;Aerin's mother, King Arlbeth's second wife;witch
+W0165;Kiki's Delivery Service;Eiko Kadono;1985;8-12 years;"Kiki, Kokiri (Kiki’s mother), The ""Big-Sister"" Witch, Kokiri’s Mother (Kiki's Grandmother), ancestral witches";witch
+W0166;Talking to Dragons (Enchanted Forest Chronicles);Patricia C. Wrede;1985;10-14 years;Morwen, Shiara, the Queen, Cimorene;witch, sorceress
+W0167;Don’t Bet on the Prince: Contemporary Feminist Fairy Tales in North America and England;Jack Zipes;1986;10+;witch;witch
+W0168;Howl’s Moving Castle;Diana Wynne Jones;1986;9-13 years;Sophie, Witch of the Waste, Mrs Annabel Fairfax;witch, sorceress
+W0169;Spooky and the Wizard's Bats;Natalie Savage Carlson ;1986;3-8 years;witch;witch
+W0170;Merlin the Wizard;Ann Lawrence;1986;7-10 years;Nimue;enchantress
+W0171;An Ash-blonde Witch;Kenneth Lillington;1987;12+;Dorcas;witch, hag, crone
+W0172;Wise Child (Doran Series);Monica Furlong;1987;12+;Juniper, Euny, Maeve the Fair;Cailleach, Doran, Sorceress
+W0173;Heckedy Peg;Audrey Wood;1987;4-8 years ;Heckedy Peg ;witch
+W0174;Equal Rites (Discworld - Witches Series);Terry Pratchett;1987;12+;Granny, Esmerelda, Hilta, Nanny Annaple, Gammer Tumult;witch
+W0175;The Witch's Handbook;Malcolm Bird;1988;6-12 years;unnamed witches ;witch
+W0176;Summer Witches;Theresa Tomlinson;1989;9-12 years;Miss Lily Morgan, Rose (Miss Lily's sister);witch, wise women
+W0177;The Witch and the Ring;Ruth Chew;1989;7-10 years;Arabelle, Hedwig, other unnamed witches;witch
+W0178;Not Just a Witch;Eva Ibbotson;1989;8-12 years;"Hecate ""Heckie"" Tenbury-Smith, Dora Mayberry, Frieda Fennel, Madame Rosalia, Mad Millicent ";witch, Wickedness Hunters
+W0179;The Witch Rose;Annie Dalton;1990;7+;unnamed witches ;witch
+W0180;Juniper (Doran Series);Monica Furlong;1990;12+;Juniper, Euny (Juniper’s godmother), Meroot, Angharad of the West, Phrene, Gamal’s biological mother;doran, sorcerer, healer, outlander
+W0181;Vasilissa the Beautiful: A Russian Folktale;Elizabeth Winthrop;1991;6-10 years;Baba Yaga;witch
+W0182;The Whitby Witches;Robin Jarvis;1991;10-14 years;Alice, Prudence, Matilda Droon, Tilly, Dora Banbury-Scott, Edith Wethers, Rowena Cooper, Roslyn Crosier;witch, wise woman, hag, sorceress
+W0183;The Widow's Broom;Chris Van Allsburg;1992;4-8 years ;the Witch;witch
+W0184;The Initiation (The Secret Circle Series);L.J. Smith ;1992;13+;Cassie, Faye, Diana, Melanie, Adam, Laurel, Deborah, Suzan, Nick, Chris, Doug, Sean, Alexandraa, Grandma Howard, Black John ;witch
+W0185;A Warlock in Whitby (The Whitby Witches Series);Robin Jarvis;1992;10-14 years;Rowena Cooper, Roselyn, Patricia Gunning, Alice Boston;witch, priestess
+W0186;The Magic Circle;Donna Jo Napoli;1993;10+;The Ugly One;witch, sorceress
+W0187;Baba Yaga: A Russian Folktale;Katya Arnold ;1993;4-8 years ;Baba Yaga ;witch
+W0188;The Christmas Witch: An Italian Legend;Joanne Oppenheim;1993;6-8 years;Befana;witch, old woman
+W0189;The Invitation (The Books of Magic Series) ;Carla Jablonski;1993;12+;Tala, Baba Yaga, Nimue, Queen of Evil;witch, hag
+W0190;The Witches' Supermarket;Susan Meddaugh;1994;4-8 years ;the woman in the purple coat, the store manager, unnamed witches;witch, old woman
+W0191;Baba Yaga and Vasilisa the Brave;Marianna Mayer;1994;6-9 years ;Baba Yaga, the stepmother;witch
+W0192;Witches Don't Do Backflips (The Adventures of the Bailey School Kids Series);Marcia Thornton Jones, Debbie Dadey;1994;7-10 years;Miss Brewbaker;witch
+W0193;The Secret of Platform 13;Eva Ibbotson;1994;9-12 years;Mrs Frampton, Odge, Mrs Gribble, Fredegonda;witch, hag, harridan
+W0194;Here There Be Witches;Jane Yolen;1995;10+;Emily Early, Baba Yaga, Polly Bangs, Witch Alfre, the three witch sisters;witch, hag, crone, sister
+W0195;The Accidental Witch;Anne Mazer;1995;8-12 years;"Phoebe ""Bee"", Andelica, Mesmerelda, Jacky";witch
+W0196;The Golden Compass (His Dark Materials Series);Philip Pullman;1995;10-15 years;Serafina Pekkala and her clan, other unnamed witch clans;witch
+W0197;Winnie in Winter (Winnie the Witch/Winnie and Wilbur Series);Valerie Thomas;1996;3-9 years;Winnie ;witch
+W0198;Zel;Donna Jo Napoli;1996;12+;Mother;witch, mother
+W0199;Feminist Fairy Tales;Barbara Walker;1996;12+;Witch of the North, Rosette, sea witch, Pilgrim, Marie;witch, wise woman, healer
+W0200;The Lost Years (Merlin Series);T.A. Barron;1996;10-14 years;Elen, Branwen;sorceress, she-demon
+W0201;Rapunzel;Paul O. Zelinsky;1997;4-10 years ;the sorceress;sorceress
+W0202;Harry Potter and the Philosopher's Stone (Harry Potter);J.K. Rowling;1997;9+;Hermione Granger, Minerva McGonagall, Lily Potter, Ginny Weasley, Madam Pomfrey, Madam Hooch, Professor Sprout;witch
+W0203;Alice and Greta: A Tale of Two Witches;Steven J. Simmons;1997;4-8 years;Alice, Greta, Miss Mildred Mildew ;witch
+W0204;Sandry's Book (Circle of Magic Series);Tamora Pierce;1997;8-12 years;"Lady Sandrilene ""Sandry"" fa Toren, Daja Kisubo, Trisana ""Tris"" Chandler, Dedicate Lark, Dedicate Rosethorn, Dedicate Moonstream";mage
+W0205;Dark Lord of Derkholm (Derkholm Series);Diana Wynne Jones;1998;12-17 years;Mara, Querida (High Chancellor), Betula;enchantress, female wizard
+W0206;Zoom Broom;Margie Palatini;1998;3-6 years ;Gritch, Witch of the West, Witch of the East, Witch in the Woods;witch, madam
+W0207;Wizzie Witch;Colin & Jacqui Hawkins;1999;3-8 years;Wizzie, Wendy, Wanda, Wilma;witch
+W0208;Wizzil;William Steig;2000;4-8 years;Wizzil;witch
+W0209;Brooms Are for Flying;Michael Rex;2000;2-5 years;unnamed witch;
+W0210;The Beast Under the Wizard's Bridge (Lewis Barnavelt Series);Brad Strickland;2000;8-12 years;Selenna Izard, Ermine Moote, Mildred Jaeger, Florence Zimmermann;witch
+W0211;Room on the Broom;Julia Donaldson;2001;2-7 years;witch  ;witch
+W0212;Circles in the Stream (Avalon: Web of Magic Series);Rachel Roberts;2001;8-12 years;"the Dark Sorceress, Gran (""Nakoda "")";witch, sorceress, caretaker
+W0213;Christmas in Camelot (Magic Tree House: Merlin Missions);Mary Pope Osborne;2001;6-10 years;Morgan Le Fay;magician, enchantress
+W0214;The Sorcerer's Companion;Allan Zola Kronzek, Elizabeth Kronzek;2001;9-13 years;Hermione, Professor McGonagall, Professor Sprout, Professor Trelawney, Madam Pomfrey, Circe, Medea, Hecate, Vivien, Lady in the Lake, Wicked Black Witch of Fraddam, Black Annis, Storm Hag, Cailleach Bheare, Ceridwen;witch, sorceress, enchantress, wise woman, hag
+W0215;Fantastic Beasts and Where to Find Them;J.K. Rowling;2001;9-14 years;Rita Skeeter, Seraphina Picquery, Madame Elfrida Clagg, Bathilda Bagshot, Isolt Sayre, Porpentina Scamander;witch
+W0216;Coraline;Neil Gaiman;2002;9-14 years;Beldam, Other Mother;beldam, other mother
+W0217;The Wee Free Men (Discworld - Tiffany Aching Series);Terry Pratchett;2003;10-14 years;Tiffany Aching, Miss Perspicacia Tick, Granny Aching, Mistress Weatherwax, Mrs Ogg ;
+W0218;Taliesin;Maggie Pearson;2004;8-12 years;Caridwen;witch
+W0219;Colman (Doran Series);Monica Furlong;2004;12+;Juniper, Wise Child, Meroot, Euny ;witch, doran, sorceress, wise woman
+W0220;The Spook's Tale (The Last Apprentice/The Wardstone Chronicles);Joseph Delaney;2004;10-14 years;Mother Malkin, Bony Lizzie, Alice Deane, Agnes Sowerbutts, Mab Mouldheel, Jennet and Beth Mouldheel, Grimalkin (the witch assassin) , Martha Ribstalk, Wrekinda, Kernolde the Strangler, Gertrude the Grim, Katrise, Wurmalde, Marcia, Morwena (Bloodeye);witch, hag
+W0221;Magic or Madness (Magic or Madness Trilogy);Justine Larbalestier;2005;12+;"Reason Cansino, Esmeralda ""Mere"" Cansino (Reason's grandmother), Julieta ""Jay-Tee"", Serafina Cansino (Reason's mother), Milagros Luz Cansino and her sisters, Jason Blake (the antagonist who is revealed to be Reason’s grandfather)";witch, magic-wielders
+W0222;The Cry of the Icemark (The Icemark Chronicles);Stuart Hill;2005;9-14 years;White Annis, Wenlock Witchmother, The White Witches of the Icemark, Wise Women;witch, wise woman
+W0223;Bras & Broomsticks (Magic in Manhattan Series);Sarah Mlynowski;2005;12+;Miri, Carol, mom, grandma, aunt Sasha;witch
+W0224;Magyk (Septimus Heap series);Angie Sage;2005;10-15 years;Zelda, Morwenna, Wrendon Witches;witch
+W0225;A Very Brave Witch;Alison McGhee;2006;3-8 years ;witch  ;witch
+W0226;Terrier (Provost's Dog Trilogy);Tamora Pierce;2006;12+;"Beka Cooper, Granny Fern, Koramin ""Kora"" Ingensra, Mistress Painter";gifted, mage
+W0227;Fablehaven ;Brandon Mull;2006;10-14 years;Muriel Taggert;witch, hag, old woman
+W0228;The Salem Witch Tryouts;Kelly McClymer;2006;12+;Prudence, Pru, Patience, Grandmama, Agatha, Mrs Goode, Coach Gertie, Tara, Maria, Denise;witch, hag, crone
+W0229;The Key to Rondo (Rondo Series);Emily Rodda;2007;8-12 years;The Blue Queen;witch, sorceress
+W0230;Jinx;Meg Cabot;2007;12+;Jean, Jinx, Torrance, Tory, Gretchen, Lindsey, Grandma, Branwen, Lisa;witch
+W0231;The Graveyard Book;Neil Gaiman;2008;10-14 years;Liza Hempstock;witch
+W0232;Baba Yaga, the Flying Witch;Susanna Davidson;2008;4-8 years ;Baba Yaga;witch
+W0233;Where's My Hug?;James Mayhew;2008;2-6 years;witch  ;witch
+W0234;Druscilla's Halloween;Sally M. Walker;2009;3-6 years ;Druscilla;witch
+W0235;The Magicians (The Magicians Series);Lev Grossman;2009;14+;Professor Petitpoids, Julia, the Watcherwoman;witch
+W0236;Once a Witch;Carolyn MacCullough;2009;12+;Tasmin Greene, Rowena Greene (Tamsin’s older sister), Camilla Greene (Tamsin and Rowena's mother), Althea (grandmother), Aunt Beatrice (Grandmother’s sister), Gabriel, Lydia (Gabriel's mother), James (Rowena’s fiancé), Alistair Callum (Alistair Knight);talented, witch
+W0237;Only A Witch Can Fly;Alison McGhee;2009;3-8 years ;witch;witch, you
+W0238;Cake Girl;David Lucas;2009;5-8 years;Witch;witch
+W0239;Which Way to Witch School?;Scott Santoro;2010;4-8 years ;Miss Thornapple, Miss Zorch, Miss Glonk, little witches;witch, girls
+W0240;Hex Hall (Hex Hall Series);Rachel Hawkins;2010;12+;"Sophie Mercer, Elodie Parris, Anna Gilroy, Chaston Burnett, Holly, Ms East, Ms Vanderlyden ""The Vandy"", Anastasia Casnoff,  Maeve Brannick, Jessica & Margaret Prentiss";witch
+W0241;Broom, Zoom! ;Caron Lee Cohen;2010;2-5 years;witch;witch
+W0242;Just Add Magic ;Cindy Callaghan;2010;9-13 years;"Mrs Regina ""Gina"" Silvers";witch, hag
+W0243;A Discovery of Witches;Deborah Harkness;2011;14+;"Diana Bishop, Rebecca Bishop, Sarah Bishop, Emily ""Em"" Mather, Gillian Chamberlain, Amira, Satu Järvinen, Bridget Bishop";witch, Wiccan
+W0244;Hubble Bubble, Granny Trouble (Hubble Bubble);Tracey Corderoy;2011;3-8 years ;Granny;witch
+W0245;The Near Witch;Victoria Schwab;2011;12-17 years;The Near Witch, Magda Thorne, Dreska Thorne;witch, hag
+W0246;Born at Midnight (Shadow Falls Series);C.C. Hunter;2011;12+;Kylie Galen, Helen Brightman (Kylie’s mother), Holiday Phillips (camp leader), Miranda Kane (Kylie's friend);witch
+W0247;Sea Hearts;Margo Lanagan;2012;14+;Misskaella Prout, Trudle Callisher;witch, hag, apprentice
+W0248;The Ash-Born Boy;Victoria Schwab;2012;13-17 years;"William ""Will"" Hart (male witch), Lady Katherine Dale, village witches";witch
+W0249;Born Wicked (The Cahill Witch Chronicles);Jessica Spotswood;2012;12+;Cate Cahill, Maura Cahill, Tess Cahill, Anna Cahill, Elena Robichaud, Mrs Corbett, Zara Roth, Sachi Ishida;witch, Sister
+W0250;Cinder (The Lunar Chronicles);Marissa Meyer;2012;12-14 years;Linh Cinder (Princess Selene), Queen Levana, Sybil Mira ;witch, lunar
+W0251;The Wishing Spell (The Land of Stories Series);Chris Colfer;2012;8-12 years;Enchantress, Hagatha;witch, hag, enchantress
+W0252;The Little Mermaid (in Michael Hague's Read-to-me Book of Fairy Tales);Allison Grace MacDonald;2013;4-8 years ;sea witch;witch
+W0253;Thumbelina (in Michael Hague's Read-to-me Book of Fairy Tales);Allison Grace MacDonald;2013;4-8 years ;witch;witch
+W0254;Lulu Goes To Witch School;Jane O'Connor;2013;4-8 years ;"Lulu Witch, Mama Witch, Sandy Witch, Miss Slime, other classmates (""little witches"")";witch
+W0255;The Power of Poppy Pendle;Natasha Lowe;2013;8-12 years;Poppy Pendle, Mabel Ratcliff (Great-Granny Mabel), Irene, Ms Lavinia Roach, Miss Robinson, Miss Higgle, Miss Corns, Miss Jenkins, Miss Weedle, Madeline Reynolds, Megan Roberts, Fanny Freeman;witch, novice
+W0256;History's Witches;Lisa Graves;2013;10-13 years;Eleanor of Aquitaine, Saint Catherine of Siena, Joan of Arc, Agnes Bernauer, Jeanne de Navarre, Anne Boleyn, Ursula Southeil (Mother Shipton), Catherine de’ Medici, Elizabeth Southerns, Sidonia von Borcke, Bridget Bishop, Jeanne-Marie Bouvier de la Motte-Guyon;witch
+W0257;How to Outwit Witches;Catherine Leblanc;2013;4-8 years ;witches;witches
+W0258;Jinx (Jinx Series);Sage Blackwood;2013;8-12 years;Dame Glammer, Dame Esper, Berga;witch
+W0259;Hansel and Gretel and the Green Witch ;Laura North;2013;5-8 years;witch;witch
+W0260;Hansel and Gretel;Neil Gaiman;2014;7-10 years;old woman;old woman
+W0261;I Am A Witch's Cat;Harriet Muncaster;2014;3-6 years;mom;witch
+W0262;The Sweetest Witch Around;Alison McGhee ;2014;3-8 years ;witch, Witchling;witch
+W0263;A Path Begins (The Thickety Series);J. A. White;2014;13+;Kara Westfall, Helena Westfall, Grace Stone, Abigail Smythe;witch
+W0264;The Witch’s Boy;Kelly Barnhill;2014;9-13 years;Sister Witch (Mother), the Three Women (The Grandmother, The Daughter, and The Granddaughter);witch
+W0265;The Red Sun (Legends of Orkney Series);Alane Adams;2014;9-13 years;Abigail, Endera, Hestera, Lemeria, Mavery, Catriona;witch, witchling, hag
+W0266;The Lost Stone (The Kingdom of Wrenly Series);Jordan Quinn;2014;6-9 years;witch  ;witch
+W0267;The Lunch Witch;Deb Lucke;2015;9+;Grunhilda, Tituba, Ursula;witch, hag, crone
+W0268;Baba Yaga's Assistant;Marika McCoola;2015;10+;Baba Yaga, Masha;witch, crone
+W0269;Sadie's Story (Backyard Witch Series);Christine Heppermann, Ron Koertge;2015;6-9 years ;Ms. M, Ethel, Zelda;witch
+W0270;Castle Hangnail;Ursula Vernon;2015;8-12 years;Molly Utterback, Eudaimonia;witch, sorceress
+W0271;Fairest (The Lunar Chronicles);Marissa Meyer;2015;12-14 years;Levana Blackburn (Queen of Luna), Channary Blackburn (Levana’s older sister),  Sybil Mira, Joshua Haddon, Aimery Park, Master Gertman, Queen Jannali and King Marrok;lunar, thaumaturge, illusionist
+W0272;Carry On (Simon Snow Series);Rainbow Rowell;2015;13+;Penelope Bunce, Agatha Wellbelove, Natasha Pitch, Lucy Salisbury, Trixie, Ebb;magician 
+W0273;Woozy the Wizard: A Broom to Go Zoom;Elli Woollard;2015;3-6 years;Titch, Tall;witch
+W0274;The Girl Who Drank the Moon;Kelly Barnhill;2016;9-12 years;"Xan, Luna, Sister Ignatia (The Sorrow Eater), Adara (The ""Madwoman"")";witch, Sorrow Eater, hag
+W0275;The Apprentice Witch (The Apprentice Witch Trilogy);James Nicol;2016;9-12 years;Arianwyn Gribble, Maria Stronelli, Gimma Alverston, Jucasta Delafield, Euphemia (Effie) Delafield, Polly Walden;witch
+W0276;How to Hang a Witch;Adriana Mather;2016;14+;"Samantha ""Sam"" Mather, Lizzie, Susannah, Alice, Mary, Vivian (Ann Putnam Jr)";witch, descendants, Crow Woman
+W0277;The Graces (A Graces Novel);Laure Eve;2016;12+;"Fenrin, Thalia, and Summer Grace; Esther and Gwydion Grace";witch
+W0278;The Lazy Dragon and the Bumblespells Wizard (Bumblespells Series);Kath Boyd Marsh;2016;9-12 years;Hedge-Witch, Themora;witch, hag, crone, harridan
+W0279;The Bone Witch (The Bone Witch Series);Rin Chupeco;2017;13+;Tea Pahlavi (Tea of the Embers), Mykaela (Mykaela of the Hollows), Rose Pahlavi, Lilac Pahlavi, Sakmeet;witch, asha, spellbinder, crone, apprentice, novitiate
+W0280;The Wompananny Witches Make One Mean Pizza;Jennie Palmer;2017;3-7 years;Anita Wompananny, Winnifred Wompananny;witch
+W0281;The Black Witch (The Black Witch Chronicles);Laurie Forest;2017;14+;Elloren Gardner, Carnissa Gardner (The Black Witch), Aunt Vyvian;witch, sorceress, mage
+W0282;Rapunzel;Bethan Woollvin;2017;4-8 years ;witch  ;witch
+W0283;A Most Magical Girl;Karen Foxlee;2017;8-12 years;Annabel Grey, Henrietta Vine, Estella Vine, Vivienne Grey, Miss Broughton (Witch of St. John’s Wood);witch, magical girl, healer
+W0284;The Witch Boy (The Witch Boy Series);Molly Knox Ostertag;2017;8-12 years;Aster Vanissen, Mikasi, Wynonna Vanissen (Grandmother), Holly (mother), Juniper, Hazel, Jessamine, Aunt Vervain, Aunt Iris, Tupelo, Cygnus;witch
+W0285;Labyrinth Lost;Zoraida Córdova;2017;14+;"Alejandra ""Alex"" Mortiz, Lula Mortiz, Rose Mortiz, Carmen Mortiz, Rosaria Vargas (Aunt Ro), Mama Juanita, The Devourer (Xara), Kristiñe";bruja, brujita, encantrix
+W0286;The Bear and the Nightingale (Winternight Trilogy);Katherine Arden;2017;12+;Vasya Petrovna;witch
+W0287;Polly and Buster: The Wayward Witch and the Feelings Monster (Polly and Buster Series);Sally Rippin;2017;7-10 years;Polly Proggett, Miss Spinnaker, Winifred Proggett, Mrs Proggett (mum), Malorie Halloway, Rosemary, Valentine, Willow, Sycamore, Aunt Hilda, Deidre Halloway, Mrs Crabbe, Miss Madden;witch, Silver Witch
+W0288;The Great Granny Cake Contest! (Hubble Bubble Series);Tracey Corderoy;2017;6-9 years ;Araminta Violet Crow (Granny), Moonbeam, Pandora Isabella Podmore, Gwendolyn and Tilda;witch
+W0289;Zip! Zoom! On A Broom;Teri Sloat;2017;2-6 years;witches;witch
+W0290;The Wizards of Once (The Wizards of Once Series);Cressida Cowell;2017;9-12 years;Kingwitch;witch
+W0291;Hansel and Gretel;Bethan Woollvin;2018;4-8 years;Willow;witch
+W0292;Begone the Raggedy Witches (The Wild Magic Trilogy);Celine Kiernan;2018;9-12 years;Mup (Pearl), Mam (Stella), Magda, Aunty Boo (the Duchess), the Queen, Firinne and her clan (Clann'n Cheoil), the raggedy witches;witch, hag
+W0293;To Kill a Kingdom (Hundred Kingdoms);Alexandra Christo;2018;13+;the Sea Queen (Lira's mother);Sea Witch, Sea Queen, 
+W0294;Undead Girl Gang;Lily Anderson;2018;14+;"Camila ""Mila"" Flores, Riley Marie Greenway, Toby, Dr. Cora Miller, the Quarter Moons Coven Members";witch, bruja, wix or Wiccan (gender-neutral),
+W0295;Sea Witch (Sea Witch Duology) ;Sarah Henning;2018;14+;Evelyne (Evie), Tante Hansa, Hansa’s Sister, Greta (Evie's mother), Maren Spliid, Anna (Annemette) is a mermaid but successfully masquerades as a witch;Sea Witch, healer, ancient witch, devils
+W0296;Hocus Pocus and the All-New Sequel;A. W. Jantha;2018;12+;"Winifred ""Winnie"" Sanderson, Mary Sanderson, Sarah Sanderson, Elizabeth Sanderson, Druscilla (The Dreadful), Poppy Dennison, Isabella Richards";witch, hag 
+W0297;The Sphinx's Secret (The Supernormal Sleuthing Service Series);Gwenda Bond, Christopher Rowe;2018;9-12 years;Madame Veronika, Dadelion;witch
+W0298;Worse, Worser, Wurst (Princess Pulverizer Series);Nancy Krulik ;2018;6-8 years;Wild Witch of Sandwich;witch
+W0299;The Blue Witch (The Witches of Orkney);Alane Adams;2018;7-12 years;Abigail, Endera, Melistra, Madame Hestera, Old Nan, Glorian, Nelly, Calla, Baba Nana, Lissandra, Madame Vex, Madame Barbosa, Madame Arisa, Madame Radisha, Madame Greef, Minxie, Portia, Lucilla, Catriona, Vena Volgrim;witch, witchling, hag, acolyte
+W0300;The Train to Impossible Places: A Cursed Delivery ;P. G. Bell ;2018;7-12 years;Lady Crepuscula, Selena;witch, sorceress 
+W0301;The Okay Witch;Emma Steinkellner;2019;8-12 years;"Moth Hush, Calendula ""Cal"" Hush (Moth's mother), Sarah Hush (Moth's grandmother), Adelais Gamine, Old Jenny, the Hecate Witches";witch, hag 
+W0302;Mooncakes;Wendy Xu, Suzanne Walker;2019;13+;"Nova Huang, Qui (Nana), Ms. G (Nechama), Mrs. Crawford (Pamela/Pam), Tatyiana ""Tat"" ";witch
+W0303;These Witches Don't Burn;Isabel Sterling;2019;12+;Hannah Walsh, Veronica Matthews, Lady Ariana (Hannah's grandmother), Marie Walsh (Hannah's mom), Mrs Blaise, Mrs Matthews, Ellen Watson, Elijah;witch, covenmate
+W0304;The Littlest Witch (A Littlest Book);Brandi Dougherty;2019;3-5 years;Wilma, Wilma's mother, Hazel, Aunt Ruby, Nonni;witch
+W0305;The Itty-Bitty Witch;Trisha Speed Shaskan;2019;3-7 years;Betty Ann Batsworth, Ms Fit, Abby Owlsgate, Sam Catswell, Taylor Toadsley;witch
+W0306;The Babysitters Coven;Kate Williams;2019;12+;Esme Pearl, Cassandra Heaven, Theresa Pearl, Circe, the Synod (council of Sitters);sitter, coven
+W0307;A Tale of Magic... (Tale of Magic Series);Chris Colfer;2019;8-12 years;Brystal Evergreen, Lucy Goose, Madame Celeste Weatherberry (the Snow Queen);witch, hag
+W0308;Willow Moss & the Lost Day (Starfell Series);Dominique Valente;2019;8-12 years;Willow Moss, Raine Moss (Willoe's mother), Moreg Vaine (antagonist), Granny Flossy (Florence Moss, Willow's grandmother), Juniper Moss (Willow's sister), Camille Moss (Willow's sister), Amora Spell (antagonist), Essential Jones, Rubix, Molsa;witch, magical people, hag 
+W0309;Witches of Brooklyn (Witches of Brooklyn Series);Sophie Escabasse;2020;7-12 years;Effie, Selimene, Carlota, the Vermillion Witches;witch
+W0310;The Dark Tide;Alicia Jasinska;2020;14+;Eva (the Witch Queen), Natalia, Yara, Marcin, Jun, Cyla;witch
+W0311;Wanted: Witch's Cat;Joy Davidson;2020;4-8 years;Griselda;witch
+W0312;Eva Evergreen, Semi-Magical Witch (Eva Evergreen Series);Julie Abe;2020;9-13 years;"Evalithimus ""Eva"" Evergreen, Nelalithimus ""Nela"" Evergreen, Kaya Ikko, Norya Dowel, Stella";witch
+W0313;Cattywampus;Ash Van Otterloo;2020;8-12 years;Delpha McGill, Katybird Hearn, Kathleen McGill (Mama), Cassidy Hearn (Mama), Nanny Hearn, Mamaw McGill, Aunt Eunice;witch, cunning folk, bairn/Young'un
+W0314;The Witches of Willow Cove;Josh Roberts;2020;9-13 years;"Abby Shepherd, Piper Finch, Amethyst Jones, Daisy Green, Delphinium ""Delphi"" Green, Olivia Edwards, Miss Winters (Joanna Greylocke), Tina O'Reilly, Mrs Agnes Vickory";witch, coven, the Order, crone
+W0315;Cinders and Sparrows;Stefan Bachmann;2020;8-12 years;Zita Brydgeborn, Georgina Brydgeborn, Magdeboor III (The Dark Queen), Mary Coalblood (The First Magdeboor), Greta Brydgeborn, Ysabeau Cantanker ;witch, underwitch, Dark Queen
+W0316;The Once and Future Witches;Alix E. Harrow;2020;14+;"The Eastwood Sisters: James Juniper Eastwood, Agnes Amaranth Eastwood, Beatrice Belladonna ""Bella"" Eastwood; The Sisters of Avalon: Jennie Gemini Lind, Inez Gillmore, Electa Gage, Mary, Minerva, and Nell, Annie Asphodel Flynn, Ruthie, Martha, and Yulia, Victoria and Tennessee; Mama Hags, Cleopatra Quinn, Madame Zina Card";witch, wayward sisters
+W0317;A Wicked Magic;Sasha Laurens;2020;14+;"Dianiel ""Dan"", Elisabeth ""Liss"", Alexa, Lorelei, Madame Swann";witch
+W0318;B*Witch;Paige McKenzie, Nancy Ohlin;2020;12+;"Iris Gooding, Greta Navarro, Ridley Stone, Beatrix ""Binx"" Kato, Divinity ""Div"" Florescu, Mira Jahani, Aysha Rodriguez, Penelope Hart, Ms O'Shea, Mrs Feathers, Callixta Crowe, Adelita Suarez";witch
+W0319;When We Were Magic;Sarah Gailey;2020;13+;Alice, Roya, Iris, Maryam, Marcelina, Paulie, Gina Tarlucci;magic, witch
+W0320;Legendborn (The Legendborn Cycle);Tracy Deonn;2020;13+;Briana “Bree” Matthews, Faye Ayeola Carter (Bree’s mother), Dr. Patricia Hartwood, Vera, Mariah, Natasia Kane;practitioner, rootcrafter, wildcrafter
+W0321;Tidesong;Wendy Xu;2021;8-12 years;Sophie Wu, Sage Wu (Sophie's cousin), Auntie Lan/Lanny, Mama (Mari), Grandma (Lu), Eugenia;witch
+W0322;Witch for Hire;Ted Naifeh;2021;13+;Faye Faulkner, Elvira (Ol' Lady Ledoux);witch
+W0323;Bad Witch Burning;Jessica Lewis;2021;14+;Katrell Davis;witch
+W0324;Blood Like Magic;Liselle Sambury;2021;14+;"Voya Thomas, Keisha ""Keis"" Thomas, Alex Thomas, Granny (Ava Thomas), Voya's mom, Auntie Maise, Priya (Voya's stepmother), Eden, Lauren Carter, Rena Carter, Rowen Huang, Rowen's Auntie, April-Mae Davis";witch, matriarch
+W0325;Little Witch Hazel: A Year in the Forest;Phoebe Wahl;2021;4-8 years;Hazel;witch
+W0326;This Poison Heart;Kalynn Bayron;2021;14+;Briseis Greene, Selene, Circe, Medea, Hecate, Mama Lucille, Marie Morris;witch, poisonist
+W0327;The Nature of Witches;Rachel Griffin;2021;14+;Clara Densmore, Sang Park, Paige Lexington, Ms Suntile, Nikki, Alice Hall;witch, Everwitch
+W0328;Edie In Between;Laura Sibson;2021;12+;"Edie Mitchell, Geraldine ""GG"" Mitchell, Maura Mitchell, Rhia";witch
+W0329;Little Witch Hazel: A Year in the Forest;Phoebe Wahl;2021;3-8 years;Hazel;witch
+W0330;The Last Windwitch;Jennifer Adam;2021;8-12 years;Brida, Mother Magdi, Maigin, Queen Moira, Rissi, Ivy Sorin;witch, hedgewitch, windwitch, priestess, sorceress
+W0331;Escape to Witch City;E. Latimer;2021;10-13 years;"Emmaline ""Emma"" Black, Madeline ""Maddie"", Eliza, Lenore Black, Queen Alexandria Black (Thistle Queen), Isolde Black, Granny El";witch
+W0332;The Last Fallen Star (Gifted Clans Series);Graci Kim;2021;8-12 years;Hattie Oh, Eunha Oh, Auntie Okja, Jennie Byun, ;witch, gifted
+W0333;The Midnight Girls;Alicia Jasinska;2021;14+;Red Jaga, Black Jaga, White Jaga;witch
+W0334;A Rush of Wings;Laura E. Weymouth;2021;14+;Rowenna Winthrop, Mairead Winthrop, Elspeth Crannach, Sibyl MacArthur, Gawen’s mother;witch, cailleach
+W0335;The Witch Haven;Sasha Peyton Smith;2021;12+;"Frances Hallowell; Frances' mother Maxine DuPre; Lena Jamison; Mrs. Ana Vykotsky; Gudrun the Sorceress; Faculty Members: Mrs. Roberts, Mrs. Li, Mrs. Vance; Other Students: Aurelia Barton, Ruby Laird, Sara, Cora, Mabel, Maria, Alicia, May, and the Underwood sisters (Hattie and Beatrix)";witch
+W0336;All Our Hidden Gifts;Caroline O'Donogue;2021;14+;"Maeve Chambers, Lily O'Callaghan, Fiona Buttersfield, Fionnuala Evans, Harriet ""Heaven"" Evans";witch, sensitive
+W0337;Sweet & Bitter Magic;Adrienne Tooley;2021;12+;Tamsin, Marlena, Vera (the High Councillor), the Six, Arwyn, Hazel, Amma, Rhys, Evangeline, Healer Elthe;witch
+W0338;Witch King (Witch King Duology);H.E. Edgmon;2021;13+;Wyatt Croft, Jin Ueno, Briar Begay-Brown, Lavender Nott, Roman, Lorena, Solomon, Delilah, Miranda, Mateo;witch, changeling, witchling
+W0339;The Memory Thief (Thirteen Witches Series);Jodi Lynn Anderson;2021;8-12 years;the Memory Thief, the Time Witch, Hypocriffa, the Griever, Babble, Miss Rage, Chaos, Convenia, the Trapper, Mable the Mad, the Greedy Man;witch
+W0340;Amari and the Night Brothers (Amari Series);B.B. Alston;2021;8-12 years;Amari Peters, Maria Van Helsing, Madame Violet, Mrs Walters;magician, witch
+W0341;Barb the Last Berzerker (Barb the Last Berzerker Series);Dan Abdon, Jason Patterson;2021;8-12 years;Witch Head;witch
+W0342;The Troubled Girls of Dragomir Academy;Anne Ursu;2021;8-12 years;Queen of Kel, Witches of Kel, Aunt Magdeline, Madame Lucille Bandu;witch
+W0343;The Sisters of Luna Island;Stacy Hackney;2022;8-12 years;Marigold Lafleur, Birdie Lafleur, Lou Lafleur, Evelyn Lafleur (Mama), Gram, Clemence Lafleur, Elise Lafleur, Milicent Lafleur, Martha Willard (the Shadow Lady);witch, aromage
+W0344;Big Magic (Big Magic Series);Sarah Armstrong;2022;8-12 years;Tulsi, Merry, Sylvie, Thelma, Lola, Carys, Efa, Eunice, Carys' mother, Meredith, the Other Sylvie;magician, gwrachod (or witch), haneryn (or halfling), The One
+W0345;Leila, the Perfect Witch;Flavia Z. Drago;2022;3-7 years;Leila Wayward, Adelfa, Fer, and Lucy Wayward;witch
+W0346;Witch in the City (Crimson Twill Series);Kallie George;2022;6-9 years;Crimson Twill, Crimson's mom, Aunt Mildew, Granny Twill, Mauve, Miss Willow, Ms Whiskers;witch, witchling
+W0347;The Gingerbread Witch (The Gingerbread Witch Series);Alexandra Overy;2022;8-12 years;Maud, Mother Agatha, Vira, the First Witch, Mirtha;witch, witchling, novice
+W0348;How to Heal a Gryphon (Giada the Healer Series);Meg Cannistra;2022;8-12 years;Giada Bellantuono, Giada's mother, Zia Clementina, Alessia Marini, Maestra Vita, Streghe del Malocchio, Ari Ferraro, Isabella, Francesca;strega, guaritrice
+W0349;The Witch, The Sword, and the Cursed Knights;Alexandria Rogers;2022;8-12 years;Ellie Bettlebump, Croven, Loreena Royenale, Dame Ethyl Botts, Madame Mystérieuse;witch
+W0350;The Glass Witch ;Lindsay Puckett;2022;8-12 years;"Adelaide ""Addie"" Goode, Candice Goode, Bee Goode, Aunt Jodie, Goode ancestors";witch, the Unburnt 
+W0351;The Witchery (The Witchery Series);S. Isabelle;2022;14+;"LoganWyatt; the Red Three: Iris Keaton-Foster, Thalia Blackwood, Jailah Simmons; Sloane Strigwach; Mathilde Strigwach; Adelaide Strigwach (the Roddin Witch); Headmistress Westhoven; Other Mesmortes Students: Anika Johnson, Jenna Prim, Morgan Ramirez, Lilly Han, Rowe Adler, Hardy Schrader, and Layla Marks.";witch, proxy, hexbound
+W0352;Wildseed Witch (Wildseed Witch Series);Marti Dumas;2022;10-14 years;"Hasani Marie Schexnayder-Jones (Hasani), Aimee Lafleur (Miss Lafleur), Miss Lavande, Miss LeBrun, Miss LaRose, Miss Marie-Claire Villere (la Directrice), Demi-Rose ""Dee"" LeBlanc, LaToya, Angelique, Grandmé Annette (Annette LeBlanc), Celeste, Ciela";witch, wildseed, belle demoiselle
+W0353;Witchlings (Witchlings Series);Claribel A. Ortega;2022;8-12 years;"Seven Nightshade Salazar; Valley Valerian Pepperhorn; Thorn Laroux; Fox Salazar; Quill Pepperhorn (V.V. Avenmora); Knox (Town Gran); Sybell (the Oracle); Mrs Dimblewit; Poppy Mayweather; Pixel Gibbons; Moira Dewey; October and Tia Stardust; Barbatos Birch, Aamon, and Gamigin (The Cursed Toads); Starlight; Hurricane ""Cane""; Rifky Highmore";witchling, witch, spare Town Gran, crone, coven sisters/mates, conjurer/sorcerer
+W0354;Hedgewitch (Hedgewitch Series) ;Skye McKenna;2022;9-12 years;"Cassandra ""Cassie"" Morgan, Miranda Morgan (the Hedgewitch), Rose Morgan, Sylvia Morgan, Morgana of Faerie, Olive Morgan, Rue Whitby, Tabitha Blight, Ivy Harrington, Anika Kalra, Mrs Blight, Renata Rawlins, members of Thorn Patrol (Harriet Webb, Nancy Kemp, Lucy Watercress, Heather Shuttle, and Alice Wong, Eliza Pepper, Susan and Phyllis Drake)";witch, witchling, fledging, Hedgewitch, menders
+W0355;Alliana, Girl of Dragons;Julie Abe;2022;8-12 years;"Nelalithimus ""Nela"" Evergreen, witcked witch, Dorey, mountain witch";witch
+W0356;Spellstone;Ross Montgomery;2023;9-12 years;Evie, Clara Campbell, Lady Alinora, Patel, O'Brien, Benda, Clairmont, Wang;magician, sorcerer, Child of Emrys
+W0357;The October Witches (Month of Magic Series);Jennifer Claessen;2023;3-12 years;"Merlyn Coven: Clementine ""Clemmie"" Merlyn, Mirabelle, Patience (mom), Aunt Connie (Constance), Aunt Prudie (Prudence), Aunt Flissie (Felicity), Aunt Temmie (Temperance), the first Merlyn; Morgan Coven: Aunt Morgan, Senara Morgan, Kerra Morgan, the first Morgan";witch, hag 
+W0358;The Grace of Wild Things;Heather Fawcett;2023;8-12 years;Grace Greene, Evelyne Puddlestone;witch, sorceress
+W0359;Tiffany Aching's Guide to Being A Witch;Rhianna Pratchett, Gabrielle Kent;2023;12-14 years;Tiffany Aching, Esmerelda (Granny) Weatherwax, Gytha (Nanny) Ogg, Miss Perspicacia Tick, Miss Constance Level, Miss Eumenides Treason, Petulia Gristle, Magrat Garlick (Queen Magrat), Letice Earwig, Granny Aching, Eskarina (Esk) Smith, Lily Weatherwax, Black Aliss (Aliss Demurrage), Erzulie Gogol, Eunice Proust, Mistress Pullunder, Old Mother Dismass, Goodie Whemper, Old Mother Blackcap,Letitia Keepsake (Baroness Letitia), Amber Petty, Annagramma Hawkin, Granny Whitlow, Granny Postalute, coven members (Dimity Hubbub, Lucy Warbeck, Gertruder Tiring, Lulu Darling, and Harrieta Bilk);witch, hag, sister
+W0360;Greenwild: The World Behind the Door (Greenwild Series);Pari Thomson;2023;9-12 years;"Daisy Thistledown, Leila Thistledown (Daisy’s mother), Artemis White (Daisy’s grandmother), Eggbertina ""the Professor"" Bellamy, Acorn Sparkler, Marigold Brightly, Madame Potentille Gallitrop, Maud Daggler (Matron), Kalissa Cantrip, Ivy Helix";Botanist, witch
+W0361;Witchspark;Dominique Valente;2024;9-12 years;Eglantine (Lady Eglantine Bury), Princess Victoria, Miss Heggoty, Mrs Whistle (the Whistlewitch), Lady Heliotrope Bury (Eglantine's late mother), Miss Ayanda Luthuli, Nandi Luthuli, Lady Penelope Nettle, Miss Amelia Nettle;witch, sorcerer
+W0362;Bumps in the Night;Amalie Howard;2024;8-12 years;"Darika ""Rika"" Lovelace-Rose, Dulcie Lovelace (Rika's mother), Delilah Lovelace (Granny), Ushara (la diablesse/jumbie)";witch
+W0363;Daughters of the Lamp (Daughters of the Lamp Series);Nedda Lewers;2024;8-12 years;Morgana Salem, Magda (El  Ghoula), Fayrouz, Umm Zalabya, the Magical Trio: Peri Banu, Julnar of the Sea, and Husnaya;witch, sorceress, seer
+W0364;Emma and the Love Spell;Meredith Ireland;2024;9-12 years;Emma Davidson, Therese Cornwall, Catherine Davidson ;witch
+W0365;The Age of Enchantment (Chronicles of Whetherwhy series) ;Anna James;2024;9-12 years;"Juniper Quinn; Acantha Izadi (headteacher); professors at Thistledown Academy: Oleander Young, Nimbus Jones, Cedar, Moss McCormick; Juniper's classmates: Zinnia Fisher, Olivor Noknoi, Aspen, Fern, Bramble, Clover, and Jay; Sparrowhawk the Grey; Queen Mirabelle; Bryn Griffith's Grandfather; Aella Balaban";Enchanters
+W0366;How To Outwit a Wizard (Seven Suitors for Seven Witches Series);Amy Boyles;2024;14+;Blair Thornrose, Addison Thornrose, Dallas Thornrose, Finn Thornrose, Emory Thornrose, Georgia Thornrose, Clara Thornrose (Mama), Aunt Ovie, Catherine Farber (Chatty Cathy), Sadie and Cherie, Daisy;witch
+W0367;The Tide and The Stars;Dylan Roche;2024;14+;Ilth;witch, sorceress, hag, crone, mistress

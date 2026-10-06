@@ -1,0 +1,233 @@
+book_id;title;author;publication_year;target_age_group;character_name;character_term
+Z0001;The Beam (in Grimms' Fairy Tales);Brothers Grimm;1812;8-12 years;enchanter;enchanter
+Z0002;The Glass Coffin (in Grimms' Fairy Tales);Brothers Grimm;1812;8-12 years;magician;magician 
+Z0003;Tom Thumb (in The Fairy Book);Dinah Maria Mulock Craik;1863;6-12 years;Merlin ;enchanter
+Z0004;Jack the Giant-Killer (in The Fairy Book);Dinah Maria Mulock Craik;1863;6-12 years;magician;magician, conjuror
+Z0005;The Blue Bird (in The Fairy Book);Dinah Maria Mulock Craik;1863;6-12 years;magician;magician, enchanter
+Z0006;The Necklace of Princess Fiorimonde and Other Stories;Mary De Morgan;1880;6-12 years;wizard;wizard, magician, sorcerer
+Z0007;The Water-lily. The Gold Spinners (in The Blue Fairy Book);Andrew Lang;1889;6-12 years;the Wizard of Finland;wizard 
+Z0008;The Bronze Ring (in The Blue Fairy Book);Andrew Lang;1889;6-12 years;old man;magician, sorcerer, old man
+Z0009;Aladdin and the Wonderful Lamp (in The Blue Fairy Book);Andrew Lang;1889;6-12 years;magician, brother;magician
+Z0010;The History of Jack the Giant-Killer (in The Blue Fairy Book) ;Andrew Lang;1889;6-12 years;magician;magician, conjurer
+Z0011;Childe Rowland (in English Fairy Tales);Joseph Jacobs;1890;7-12 years;Merlin;warlock 
+Z0012;The Laidly Worm of Spindleston Heugh (in English Fairy Tales);Joseph Jacobs;1890;7-12 years;warlock;warlock
+Z0013;The History of Tom Thumb (in English Fairy Tales);Joseph Jacobs;1890;7-12 years;Merlin ;magician, enchanter
+Z0014;The Fish and the Ring (in English Fairy Tales);Joseph Jacobs;1890;7-12 years;the baron;magician
+Z0015;The Story of Caliph Stork (The Green Fairy Book);Andrew Lang;1892;6-12 years;Kaschnur, the pedlar;magician, sorcerer
+Z0016;King Kojata (The Green Fairy Book);Andrew Lang;1892;6-12 years;Hyacinthia's father;magician 
+Z0017;The Golden Mermaid (The Green Fairy Book);Andrew Lang;1892;6-12 years;the wolf;magician
+Z0018;Punchkin (in Indian Fairy Tales) ;Joseph Jacobs;1892;7-12 years;Punchkin;magician, enchanter
+Z0019;The Wizard King (in The Yellow Fairy Book);Andrew Lang;1894;6-12 years;King;wizard, magician 
+Z0020;The Dragon of the North (in The Yellow Fairy Book);Andrew Lang;1894;6-12 years;Eastern magician, magician from Finland;magician, sorcerer
+Z0021;The Grateful Beasts (in The Yellow Fairy Book);Andrew Lang;1894;6-12 years;Ferko;magician
+Z0022;The Three Brothers (in The Yellow Fairy Book);Andrew Lang;1894;6-12 years;magician ;magician
+Z0023;The Witch and Her Servants (in The Yellow Fairy Book) ;Andrew Lang;1894;6-12 years;magician;magician
+Z0024;Master and Pupil (in The Pink Fairy Book);Andrew Lang;1897;6-12 years;the man, the master, the boy;wizard
+Z0025;The Slaying of the Tanuki (in The Pink Fairy Book);Andrew Lang;1897;6-12 years;Tanuki;magician
+Z0026;The Sprig of Rosemary (in The Pink Fairy Book;Andrew Lang;1897;6-12 years;the husband ;magician
+Z0027;Cannetella (in The Grey Fairy Book);Andrew Lang;1900;6-12 years;Scioravante;magician
+Z0028;The Magician's Horse (in The Grey Fairy Book);Andrew Lang;1900;6-12 years;the master, the old man;magician
+Z0029;The Little Gray Man (in The Grey Fairy Book);Andrew Lang;1900;6-12 years;magician;magician
+Z0030;Long, Broad, and Quickeye (in The Grey Fairy Book);Andrew Lang;1900;6-12 years;wizard;wizard, sorcerer, enchanter
+Z0031;The Wonderful Wizard of Oz (Wizard of Oz Series);L. Frank Baum ;1900;8+;Oz;wizard, magician
+Z0032;The Grateful Prince (in The Violet Fairy Book);Andrew Lang;1901;6-12 years;wizard;wizard, greybeard, old man, master
+Z0033;The History of Dwarf Long Nose (in The Violet Fairy Book);Andrew Lang;1901;6-12 years;Weatherbold;wizard
+Z0034;The Young Man Who Would Have His Eyes Opened (in The Violet Fairy Book);Andrew Lang;1901;6-12 years;Mana;wizard, magician, old man
+Z0035;The Gifts of the Magician (in The Crimson Fairy Book);Andrew Lang;1903;6-12 years;magician;magician, old man
+Z0036;Tiidu The Piper (in The Crimson Fairy Book);Andrew Lang;1903;6-12 years;Tiidu;magician
+Z0037;Paperarelloo (in The Crimson Fairy Book);Andrew Lang;1903;6-12 years;Paperarello, the horse;magician
+Z0038;Madschun (in The Olive Fairy Book);Andrew Lang;1907;6-12 years;magician, dervish;magician, dervish, holy man
+Z0039;The Blue Parrot (in The Olive Fairy Book);Andrew Lang;1907;6-12 years;Ismenor, wizard;wizard, magician
+Z0040;The Shifty Lady (in The Lilac Fairy Book);Andrew Lang;1910;6-12 years;wizard;wizard, wise man
+Z0041;The Stones of Plouhinec (in The Lilac Fairy Book);Andrew Lang;1910;6-12 years;beggar man;wizard, sorcerer, old man
+Z0042;The Castle of Kerglas (in The Lilac Fairy Book);Andrew Lang;1910;6-12 years;Bryak, Rogéar;wizard, magician, sorcerer
+Z0043;Joe Strong, the Boy Wizard (The Joe Strong Series);Vance Barnum;1916;9+;Joe Strong, Peter Crabb, Alexander Strong, Professor Alonzo Rosello, Professor Morretti;wizard, magician, conjurer
+Z0044;Childe Rowland (in English Fairy Tales);Flora Annie Steel;1918;8-12 years;Merlin;wizard, magician, master
+Z0045;Jack the Giant-Killer (in English Fairy Tales);Flora Annie Steel;1918;8-12 years;magician;magician 
+Z0046;Nix Naught Nothing (in English Fairy Tales);Flora Annie Steel;1918;8-12 years;magician, the magician's daughter;magician
+Z0047;"The Sulkabit Wizard (in Sunny Stories for
+Little Folks, No. 16)";Enid Blyton;1927;5-10 years;Sulkabit;wizard
+Z0048;"Bobadil Becomes a Wizard (in Sunny Stories
+for Little Folks, No. 26)";Enid Blyton;1927;5-10 years;Thinkalot, Bobadil;wizard, enchanter
+Z0049;"The Gobble-Up Witch (in Sunny Stories for
+Little Folks, No. 26)";Enid Blyton;1927;5-10 years;Bobadil;wizard
+Z0050;"Too-Wise the Wizard (in Sunny Stories for
+Little Folks, No. 78)";Enid Blyton;1929;5-10 years;Too-Wise;wizard, magician, enchanter
+Z0051;"The Wizard's Needle (in Sunny Stories for
+Little Folks, No. 101)";Enid Blyton;1930;5-10 years;So-So;wizard
+Z0052;"Wizard Grumpity-Groo (in Sunny Stories for
+Little Folks, No. 98)";Enid Blyton;1930;5-10 years;Grumpity-Groo;wizard
+Z0053;"The Magician's Inkpot (in Sunny Stories for
+Little Folks, No. 104)";Enid Blyton;1930;5-10 years;Dear-me;magician, master
+Z0054;Very-Young the Wizard’ (in Sunny Stories for Little Folks, No. 86);Enid Blyton;1930;5-10 years;Blunder, Woz;wizard
+Z0055;"The Strange Umbrella (in Sunny Stories for
+Little Folks, No. 121)";Enid Blyton;1931;5-10 years;Ho-Hum;wizard 
+Z0056;"The Wishing Jug (in Sunny Stories for Little
+Folks, No. 133)";Enid Blyton;1932;5-10 years;wizard;wizard
+Z0057;Mighty-One the Wizard (in Sunny Stories for Little Folks, No. 173);Enid Blyton;1933;5-10 years;Mighty-One;wizard
+Z0058;"The Little Pixie-Cat (in Sunny Stories for Little
+Folks, No. 170)";Enid Blyton;1933;5-10 years;Great Wizard;wizard
+Z0059;"Big-Eyes the Enchanter (in Sunny Stories for
+Little Folks, No. 180)";Enid Blyton;1933;5-10 years;Big-Eyes;enchanter
+Z0060;The Enchanted Shoes (in Stories of Magic and Mischief);Enid Blyton;1934;5-10 years;Wizard Cast-a-Spell;wizard 
+Z0061;The Wrong Side of the Bed (in The Teachers World n. 1637);Enid Blyton;1934;5-10 years;Ten-Toes;wizard
+Z0062;"Mr Woff and the Enchanter (in Sunny Stories
+for Little Folks, No. 225)";Enid Blyton;1935;5-10 years;Too-Sly;enchanter
+Z0063;"Bubbly's Trick (in Sunny Stories for Little
+Folks, No. 244)";Enid Blyton;1936;5-10 years;Wizard Twisty;wizard
+Z0064;The Goblin's Dog (in Sunny Stories, No. 5);Enid Blyton;1937;5-10 years;wizard;wizard
+Z0065;The Inquisitive Hedgehog (in Sunny Stories, No. 4);Enid Blyton;1937;5-10 years;Tonks;wizard
+Z0066;The Hobbit;J. R. R. Tolkien;1937;10+;Gandalf, Necromancer;wizard, necromancer, sorcerer
+Z0067;Gee Up, Old Clothes Horse! (Enid Blyton’s Sunny Stories, No. 77);Enid Blyton;1938;5-10 years;Little-Eyes;enchanter
+Z0068;The Sword in the Stone (Once and Future King);T. H. White;1938;10-15 years;Merlyn;wizard, magician, necromancer, philosopher
+Z0069;The Most Peculiar Knocker (in Sunny Stories, No. 374);Enid Blyton;1946;5-10 years;Mr Sharp-Eye;wizard
+Z0070;A Peculiar Adventure (in Sunny Stortes, No. 444);Enid Blyton;1948;5-10 years;Mr Spells;wizard
+Z0071;The Enchanted Pencil (in Enid Blyton’s Sunny Stories, No. 441);Enid Blyton;1948;5-10 years;Sly-One;enchanter
+Z0072;Tell-Tale! (in Enid Blyton’s Magazine, No. 11);Enid Blyton;1954;5-10 years;Wizard of Ho, Mr Sharp-Eye;wizard
+Z0073;Pink! Pink! (in Enid Blyton’s Magazine, No. 9);Enid Blyton;1954;5-10 years;Hey-Presto;wizard, master
+Z0074;The Weirdstone of Brisingamen;Alan Garner;1960;11+;Cadellin, Grimnir;wizard, magician, lore-master
+Z0075;The Phantom Tollbooth;Norton Juster;1961;8-12 years;Mathemagician;magician 
+Z0076;Witch of the Glens;Sally Watson;1962;8-12 years;the lowlander;warlock
+Z0077;The Book of Three (The Chronicles of Prydain);Lloyd Alexander;1964;8-12 years;Dallben, Prince Gwydion;enchanter
+Z0078;Thomas and the Warlock;Mollie Hunter;1967;8-12 years;Hugo Gifford;wizard, warlock
+Z0079;Dorrie and the Wizard's Spell;Patricia Coombs;1968;6-9 years;Wink;wizard
+Z0080;A Wizard of Earthsea (Earthsea Cycle Series);Ursula K. Le Guin;1968;12-17 years;"Ged (Sparrowhawk, Duny); Ogion the Silent (Mage of Re Albi); Nemmerle; Gensher of Way; Vetch (Estarriol); Jasper; Elt; Heleth Farseer; the Mage of Perregal; the Red Mage of Ark; the nine masters of Roke: Master Doorkeeper, Master Chanter, Master Windkey, Master Herbal, Master Hand, Master Changer, Master Summoner, Master Namer (Kurremkarmerruk), Master Patterner.";wizard, mage/archmage, sorcerer, prentice, adept
+Z0081;Longbeard the Wizard;Sid Fleischman;1970;6-9 years;Longbeard, Sandor;wizard, magician
+Z0082;Melric the Magician Who Lost His Magic (Melric the Magician Series) ;David McKee;1970;3-5 years ;Melric, Guz, Kra;magician, wizard, old man
+Z0083;The Wizard of Wallaby Wallow;Jack Kent;1971;2-6 years;the Wizard of Wallaby Wallow;wizard
+Z0084;The Wicked Wizard and The Wicked Witch;Seymour Leichman;1972;6-8 years;wizard;wizard 
+Z0085;Mrs. Beggs and the Wizard;Mercer Mayer;1972;4-8 years;Alabasium;wizard
+Z0086;The Dark Is Rising (The Dark Is Rising Sequence);Susan Cooper;1973;10-14 years;Will Stanton, Merriman Lyon, Frank Dawson, George Smith, John Smith, Mr Mitothin, the Rider;Old Ones
+Z0087;The House with a Clock in Its Walls (Lewis Barnavelt Series);John Bellairs ;1973;8-11 years;Uncle Jonathan, Jonathan van Olden Barnavelt, Isaac Izard, Elihu Clabbernong;wizard, magician, warlock
+Z0088;The Magician and the Sorcerer (Melric the Magician);David McKee;1974;3-5 years ;Melric, Sondrak, Kra;magician, sorcerer, wise man
+Z0089;Dorrie and the Magic Elixir (Dorrie the Little Witch Series) ;Patricia Coombs;1974;6-9 years;Green Wizard;wizard
+Z0090;Charmed Life (Chronicles of Chrestomanci);Diana Wynne Jones;1977;9+;Mr Henry Nostrum, Mr William Nostrum, Michael Saunders, Chrestomanci, the Willing Warlock, Mr Baslam;warlock, necromancer, enchanter, magician, wizard
+Z0091;Which Witch?;Eva Ibbotson;1979;8-12 years;Arriman the Awful, Terence Mugg, Mr Canker (Arriman's father);wizard, magician
+Z0092;The Garden of Abdul Gasazi;Chris Van Allsburg;1979;4-8 years;Gasazi;magician
+Z0093;Wanda and the Bumbly Wizard;James Flora;1980;7-9 years;wizard;wizard, little man
+Z0094;William the Wizard (William the Wizard Series);Patricia Cleveland-Peck;1980;6-10 years;William, Entwhistle, Harvey, Chief Mage, Emma;wizard, magician, mage
+Z0095;The Princess Who Stood on Her Own Two Feet;Jeanne Desy;1982;8-12 years;Royal Wizard;wizard 
+Z0096;The Wizard, the Fairy, and the Magic Chicken;Helen Lester;1983;4-8 years;the Wizard  ;wizard
+Z0097;So You Want to Be a Wizard (Young Wizards Series);Diane Duane;1983;10-14 years;Juanita Callahan, Nita, Christopher Rodriguez, Kit, Tom Swale, Carl Romero;wizard, practitioner
+Z0098;Archer's Goon;Diana Wynne Jones;1984;10-14 years;Archer, Hathaway, Shine, Torquil, Erskine, Venturus, Howard, Goon;wizard 
+Z0099;The Hero and the Crown (Damar Series);Robin McKinley;1984;10-14 years;Luthe, Agsded;wizard, mage
+Z0100;Talking to Dragons (Enchanted Forest Chronicles);Patricia C. Wrede;1985;10-14 years;Zemenar, Antorell, Telemain;wizard
+Z0101;Merlin the Wizard;Ann Lawrence;1986;7-10 years;Merlin;wizard, magician
+Z0102;Spooky and the Wizard's Bats;Natalie Savage Carlson ;1986;3-8 years;wizard;wizard
+Z0103;Howl’s Moving Castle;Diana Wynne Jones;1986;9-13 years;Howl, Suliman, Jenkin, Pendragon, Jenkins;wizard, magician, sorcerer
+Z0104;Don’t Bet on the Prince: Contemporary Feminist Fairy Tales in North America and England;Jack Zipes;1986;10+;the Royal Wizard, Albion, the Court Wizard, Malagan, unnamed wizards;wizard, enchanter, sorcerer, magician
+Z0105;The Tricksters;Margaret Mahy;1986;12+;Ovid, Hadfield, Felix;magician, conjurer, trickster
+Z0106;Her Majesty's Wizard (Wizard in Rhyme Series);Christopher Stasheff;1986;13-18 years;Malingo;sorcerer
+Z0107;Equal Rites (Discworld - Witches Series);Terry Pratchett;1987;12+;Eskarina, Esk, Drum, Simon, Archchancellor Cutangle, Treatle, Malich the Wise;wizard, mage, magician, sorcerer, warlock
+Z0108;Elbert's Bad Word;Audrey Wood;1988;4-8 years;gardener;wizard
+Z0109;Wizards' Worlds;Andre Norton;1989;12+;various magical characters;wizard
+Z0110;School of Wizardry (Circle of Magic Series) ;"Debra Doyle, 
+James D. Macdonald";1990;8-12 years;Randal, Madoc the Wayfarer, Crannach, Laerg, Tarn, Pullen, Issen, Boarin, Pieter, Balpesh, Nicolas, Nick, Gaimar;wizard, master, sorcerer, magician
+Z0111;The Witch Rose;Annie Dalton;1990;7+;Robert Fair;magician
+Z0112;Wizard's Hall;Jane Yolen;1991;8-12 years;Henry, Thornmallow, Nettle, Master, Hickory, Briar Rose, Register Oakbend, Dr. Morning Glory, Dr. Mo, Beechvale, Hyssop, Bledwort, Willoweed, Will, Tansy, Gorse, Gooey, Wormwood;wizard, magister, magician, enchanter, necromancer, spellmaster, enhancer
+Z0113;The Wizard Comes to Town;Mercer Mayer;1991;4-8 years;Alabasium;wizard
+Z0114;A Warlock in Whitby (The Whitby Witches Series);Robin Jarvis;1992;10-14 years;Nathaniel Crozier;warlock 
+Z0115;The Wizard Next Door;Peter Glassman;1993;3-8 years;Mr. Myers;wizard
+Z0116;The Invitation (The Books of Magic Series) ;Carla Jablonski;1993;12+;Timothy, Stranger, Dark Walker, John Constantine, Dr Occult, Mister E, Merlin, Tannarak, Zatanna ;mage, magician
+Z0117;Wizard and Wart (Wizard and Wart Series) ;Janice Lee Smith;1994;4-8 years;Wizard;wizard 
+Z0118;The Secret of Platform 13;Eva Ibbotson;1994;9-12 years;Cornelius, Cor;wizard, enchanter, sorcerer
+Z0119;Here There Be Witches;Jane Yolen;1995;10+;Pythagoras, Michael Dee, the Sorcerer (Kay's Uncle), Merlinnus (Merlin);wizard, mage, sorcerer, necromancer, warlock
+Z0120;The Lost Years (Merlin Series);T.A. Barron;1996;10-14 years;Merlin, Emrys, grandfather;wizard, sorcerer
+Z0121;Wizards Don't Need Computers (The Adventures of the Bailey School Kids Book Series);Debbie Dadey, Marcia T. Jones;1996;7-9 years;Mr. Merle, Merlin;wizard, magician
+Z0122;Feminist Fairy Tales;Barbara Walker;1996;12+;Beast, uncle, Zooz, Sklepio;wizard, magician, healer
+Z0123;Deep Secret (Magids Series);Diana Wynne Jones;1997;10-14 years;Rupert, Will, Simon, Si, Stan, Stanley, Junior Mage Jeffros, Zinka Fearon, Gram White;magid, mage, sorcerer, magic user, practitioner
+Z0124;Harry Potter and the Philosopher's Stone (Harry Potter);J.K. Rowling ;1997;9+;Harry Potter, Ron Weasley, Albus Dumbledore, Severus Snape, Draco Malfoy, Fred and George Weasley, Cedric Diggory, Neville Longbottom, Sirius Black, Crabbe & Goyle, Lucius Malfoy.;wizard 
+Z0125;Sandry's Book (Circle of Magic Series);Tamora Pierce;1997;8-12 years;"Niklaren ""Niko"" Goldeye, Briar Moss, Frostpine, Dedicate Crane";mage
+Z0126;Real Magic: A First Story About Things That Change;Tim Healey;1997;4-8 years;Marvella;magician 
+Z0127;Word Wizard;Cathryn Falwell;1998;4-8 years;Anna ;wizard
+Z0128;Dark Lord of Derkholm (Derkholm Series);Diana Wynne Jones;1998;12-17 years;Derk (the Dark Lord), Barnabas (Vice Chancellor), Blade, Finn, Kit ;wizard
+Z0129;Poof!;John O'Brien;1999;4-8 years;wizard, wizard's wife;wizard
+Z0130;The Beast Under the Wizard's Bridge (Lewis Barnavelt Series);Brad Strickland;2000;8-12 years;Jonathan, Isaac, Jebediah, Mephistopheles P. Moote, Howard, Walter;wizard, magician, sorcerer
+Z0131;Christmas in Camelot (Magic Tree House: Merlin Missions);Mary Pope Osborne;2001;6-10 years;Merlin, Dark Wizard;magician, wizard
+Z0132;The Two Princesses of Bamarre (Bamarre Book Series);Gail Carson Levine;2001;8-12 years;Orne, Rhys;sorcerer, apprentice
+Z0133;The Sorcerer's Companion;Allan Zola Kronzek, Elizabeth Kronzek;2001;9-13 years;Harry Potter, Dumbledore, Merlin, Nicholas Flamel, Gilderoy Lockhart, Voldemort, Tom Riddle, Sirius Black, James Potter, Peter Pettigrew, Ron Weasley, Neville Longbottom, Draco Malfoy, Severus Snape, Cornelius Agrippa, Simon Forman, Moeris, Atlante, Jajamanekh;wizard, magician, sorcerer, cunning man, alchemist 
+Z0134;Fantastic Beasts and Where to Find Them;J.K. Rowling;2001;9-14 years;Newt, Newton, Scamander, Albus Dombledore, Gellert Grindelwald, Augustus Worme, Burdock Muldoon, Grogan Stump, Herpo the Foul, Phineas Fletcher, Bruno Schmidt, Flavius Belby, Janus Thickey, Abel Treetops, Uric the Oddball, Blenheim Stalk, Professor Mordicus Egg, Radolphus Pittiman, Gulliver Pokeby, Kennilworthy Whisp;wizard
+Z0135;Imagine You're a Wizard;Meg Clibbon;2002;6-9 years;Merlin, Gandalf;wizard
+Z0136;Wizards Don't Wear Graduation Gowns (The Adventures of the Bailey School Kids Book Series);Debbie Dadey, Marcia T. Jones;2002;7-10 years;Mrs. Jhick;wizard, wizette
+Z0137;The Amulet of Samarkand (Bartimaeus Sequence);Jonathan Stroud;2003;10-14 years;Nathaniel, John Mandrake, Arthur Underwood, Simon Lovelace, Sholto Pinn, Jessica Whitwell, Mr Beecham, Lime, Mr Schyler, Tim Hildick, Quentin Makepeace, William Gladstone, Disraeli, Theophilus Throckmorton, Devina;magician, sorcerer, alchemist, apprentice
+Z0138;Taliesin;Maggie Pearson;2004;8-12 years;Gwydion;magician
+Z0139;Danger! Wizard at Work! (Dragon Slayer's Academy);Kate McMullan;2004;7-10 years;Zelnoc, Zizmor;wizard
+Z0140;The Spook's Tale (The Last Apprentice/The Wardstone Chronicles);Joseph Delaney;2004;10-14 years;"Thomas ""Tom"" Ward, John Gregory (The Spook)";
+Z0141;Wolf Brothers (Chronicles of Ancient Darkness) ;Michelle Paver;2004;9-12 years;the Soul-Eaters;mage 
+Z0142;Colman (Doran Series);Monica Furlong;2004;12+;Colman, the Gray Knight of Caerleon, the Outlaw Wizards;doran, sorcerer, wizard
+Z0143;Wizard or Witch? (The Secrets of Droon Series);Tony Abbott;2004;7-10 years;Keeah, Relna, Galen Longbeard, Eric, Thum, Demither, Lord Sparr;wizard, sorcerer
+Z0144;The Wizard Test;Hilari Bell;2005;9-14 years;Dayven, Reddick, Sundar;wizard, sorcerer, apprentice
+Z0145;Wizardology: The Book of the Secrets of Merlin;Dugald A. Steer;2005;7-12 years;Merlin;wizard, shaman, fakir, master, sage
+Z0146;The Cry of the Icemark (The Icemark Chronicles);Stuart Hill;2005;9-14 years;Oskan, Cunning Men;warlock
+Z0147;Magyk (Septimus Heap series);Angie Sage;2005;10-15 years;Septimus, Marcia, Silas, Alther, DomDaniel, Simon, Nicko, Jo-Jo, Erik, Edd, Sam, Boy 412, Endor, Benjamen, Theo;wizard, warlock, necromancer, shape-shifter, apprentice
+Z0148;Billy Wizard;Chris Priestley;2005;9-11 years;Billy;wizard
+Z0149;The Salem Witch Tryouts;Kelly McClymer;2006;12+;Tobias, Dorklock, Daniel Murdoch, Samuel, Seamus, Mr Phogg, Mr Bindlebrot;warlock 
+Z0150;The Key to Rondo (Rondo Series);Emily Rodda;2007;8-12 years;Hal (Henry Langlander), Wizard Bing ;wizard
+Z0151;The Wizard Heir (The Heir Chronicles);Cinda Williams Chima;2007;12-15 years;Seph McCauley;wizard
+Z0152;Dragon Mage (The Magic Books Series);Andre Norton;2007;9-12 years;Shilo, Shilo's father;mage
+Z0153;The Magic Thief (Magic Thief Series);Sarah Prineas;2008;8-12 years;Conn, Nevery;wizard
+Z0154;Wizards Are Magic;Kath Smith;2005;9-12 years;Scruffy Buffy, Whizzy Izzy, and Grumpy Dumpy;wizard
+Z0155;Once a Witch;Carolyn MacCullough;2009;12+;Alistair Callum (Alistair Knight);N/S
+Z0156;The Magicians (The Magicians Series);Lev Grossman;2009;14+;Quentin Coldwater, Eliot, Penny, Josh Hoberman, Richard, Dean Henry Fogg (the head of the school), Professor March, the Chatwin brothers: Martin (the Beast), Rupert, and James;magician, spellcaster, mage, sorcerer
+Z0157;Slathbog's Gold (Adventurers Wanted Series);M. L. Forman;2009;10-13 years;Alex;wizard
+Z0158;Magic Below Stairs;Caroline Stevermer;2010;8-12 years;Frederick, Billy Bly, Lord Schofield  ;
+Z0159;Hex Hall (Hex Hall Series);Rachel Hawkins;2010;12+;"Archer Cross, James Atherthon, Callahan ""Cal""";warlock
+Z0160;The Red Pyramid (The Kane Chronicles);Rick Riordan;2010;9-12 years;Carter, Sadie and Julius Kane;magician
+Z0161;Brightly Woven;Alexandra Bracken;2010;9-12 years;Wayland North, North, Reuel Dorwan, Dorwan, Oliver, Commander Swift, Renald Stonewall Genet, Magister Pascal, Hecate Aisling, Sorceress Imperial, Weldon, Sorcerer Imperial;wizard, sorcerer, magister
+Z0162;A Discovery of Witches;Deborah Harkness;2011;14+;Stephen Proctor, Peter Knox;wizard
+Z0163;A World Without Heroes (Beyonders Series);Brandon Mull;2011;8-12 years;Maldor, Zokar, Eldrin, Certius, Arastus, Orruck, Emperor;wizard, master
+Z0164;The False Princess;Eilis O'Neal;2011;12+;Sinda, Philanthra;wizard
+Z0165;The Magician's Apprentice;Kate Banks;2012;10-14 years;Baz, his master, Tadis;magician
+Z0166;Jinx (Jinx Series);Sage Blackwood;2013;8-12 years;Jinx, Simon Magus, the Bonemaster;wizard, magician
+Z0167;Spook's: A New Darkness (The Starblade Chronicles) ;Joseph Delaney;2014;10-14 years;"Thomas ""Tom"" Ward";mage, spook
+Z0168;Avis Blackthorn: Is Not An Evil Wizard! (Wizard Magic School Series);Jack Simmonds;2014;9-13 years;Avis Blackthorn, his family, Malakai, Robin, Hunter, other wizards at school;
+Z0169;The Iron Trial (The Magisterium Series);Holly Black, Cassandra Clare;2014;8-12 years;"Callum ""Call"" Hunt, Alastair Hunt, Constantine Madden (The Enemy of Death), Master Rufus ";mage 
+Z0170;Rise of the Earth Dragon (Dragon Masters Series);Tracey West;2014;6-8 years;Maldred;wizard 
+Z0171;The Lost Stone (The Kingdom of Wrenly Series);Jordan Quinn;2014;6-9 years;Olaf, André, Grom;wizard
+Z0172;The Forbidden Library (The Forbidden Library Series);Django Wexler;2014;10-14 years;Alice, Geryon, Isaac, Mr Creighton, Vespidian, Anaxomander, Grigori, The Eddicant, Gabriel, Evander;reader, wizard, sorcerer, magician, magi
+Z0173;First Year (The Black Mage Series);Rachel E. Carter;2014;13+;Ryah, Alex, Prince Darren, Priscilla, Ella, Ruth, Eve, Ian, Ronan, Master Barclae, Master Cedric, Master Narhari, Master Eloise, Master Isaac, Jake, William, Clayton;mage
+Z0174;Carry On;Rainbow Rowell;2015;13+;"Simon Snow, The Mage (Davy), Tyrannus Basilton ""Baz"" Grimm-Pitch";magician, mage, chosen one
+Z0175;Woozy the Wizard: A Broom to Go Zoom;Elli Woollard;2015;3-6 years;Woozy;wizard
+Z0176;A Sliver of Stardust (A Sliver of Stardust Series);Marissa Burt;2015;8-12 years;Wren, Simon, Jack, Mary, Baxter, Liza, Cole, Elsa, Jill, Robin, Boggen;magician, alchemist, fiddler
+Z0177;The Girl Who Drank the Moon;Kelly Barnhill;2016;9-12 years;Zosimos;wizard
+Z0178;The Lazy Dragon and the Bumblespells Wizard (Bumblespells Series);Kath Boyd Marsh;2016;9-12 years;Moire Ain, Gaelyn, Professor Gralph, Bosberous, Norman, Jeremiah, Halbert, Wilhelmina Wanderlust;wizard
+Z0179;Warlocks of the Sigil;Peri Akman;2017;13+;Quinn, Kole of Estane, Asim of Trell, Wind Walker, Kay, Mackie, Hogarth, Jeffern, Kosloski, Sordidhe, Lakinn, Wanda, Yane, Head Vodyk, Doctor Travitz, Brandie, Tellack, Sennta, Yven, Dale of Javier, Cosime, Han-Yue of Larenx, Lyra of Westkill, Jess of Trell, Serethen of Javier, Reyne of Shorne, Oleander, Zin of Shanala;warlock, ward, apprentice, healer, summoner, mimicker, empath, telepath, skinchanger
+Z0180;The Wizards of Once (The Wizards of Once Series);Cressida Cowell;2017;9-12 years;Xar, Encanzo the Enchanter, Heliotrope, Looter, Rush, Darkish, Swivelli, Ranter, Demendor, Leafsong;wizard, enchanter
+Z0181;The Black Witch (The Black Witch Chronicles);Laurie Forest;2017;14+;Fallon Bane, Trystan Gardner, Lukas Grey, Marcus Vogel;mage
+Z0182;The King of Too Many Things;Laurel Snyder ;2017;4-8 years;Wizard  ;wizard 
+Z0183;The Wizard’s Dog;Eric Kahn Gale;2017;8-12 years;Merlin ;wizard, magician
+Z0184;Into the Labyrinth (Mage Errant Series);John Bierce;2018;12+;Hugh of Emblin, Alustin Haber, Talia of Clan Castis, Sabae Kaen Das, Godrick, Rhodes Charax, Aedan Dragonslayer, Headmaster Tarik, Artur Wallbreaker, Sulassa Tidecaller, Kanderon Crux;mage, wizard, warlock
+Z0185;Wizardmatch;Lauren Magaziner;2018;8-12 years;Mortimer de Pomporromp, Poppop, Humphrey de Cobblespork, Stacey, Tracy, Macy, Philip, Bob, Lennie, Michael, Julien, Perrie, Bo, Danielle, Alice, Jordan, Anya, Jonathan, Mollie, Emma, Ethan,  Ellington, Raina;wizard
+Z0186;Ta-Da!;Kathy Ellen Davis;2018;3-5 years;magician;magician
+Z0187;Worse, Worser, Wurst (Princess Pulverizer Series);Nancy Krulik ;2018;6-8 years;Wizard of Wurst;wizard
+Z0188;How to Defeat a Wizard (Marty Pants Series);Mark Parisi;2018;8-12 years;Simon;wizard
+Z0189;Be a Good Dragon;Kurt Cyrus;2018;4-7 years;the royal magician;wizard, magician
+Z0190;Wizard for Hire (Wizard for Hire Series);Obert Skye;2018;9-12 years;Rin, Labyrinth, Snilf;wizard
+Z0191;The Sphinx's Secret (The Supernormal Sleuthing Service Series);Gwenda Bond, Christopher Rowe;2018;9-12 years;Edmund, Eddard Darkfell, Elliot Darkfell;wizard, sorcerer, mage, magic user, warlock, enchanter
+Z0192;The Door to the Lost ;Jaleigh Johnson;2018;10-12 years;Lily, Dozana Atrathk, Heath Poe, Rook, Drift, Fox, Henrietta, Cassandra, Gavin, Nate;wizard
+Z0193;Wizard and the Lizard;Katie Reed;2019;3-8 years;Wizard;wizard 
+Z0194;The Dragon In The Library (Kit the Wizard Series) ;Louie Stowell;2019;7-10 years;Kit, Faith, Greg, Gladys;wizard
+Z0195;The Okay Witch;Emma Steinkellner;2019;8-12 years;Peter Kramer;witch
+Z0196;Cemetery Boys ;Aiden Thomas;2020;13+;Julian;bruja, brujo, brujx
+Z0197;The Fascinators;Andrew Eliopulos;2020;12+;Sam Fisher, James Dawson, Delia, Denver, Amber Williams, Leslie Fisher, Liv Honeycutt, Mr Grender, Albert Grender, Isaac, Grace, Carl, Alex, Hank, Vi, Rachel Hanover, Marshall, ;fascinator, magicker, keeper
+Z0198;Legendborn (The Legendborn Cycle);Tracy Deonn;2020;13+;"Selwyn ""Sel"" Kane, Isaac Sorenson";mage, Merlin
+Z0199;The Girl & the Galdurian (Lightfall Series);Tim Probert;2020;8-12 years;Pig Wizard, Alfirid, Alfie;wizard
+Z0200;Cathedral of Bones;A.J. Steiger;2021;8-12 years;Simon, Vera, Dr. Aberdeen Finius Hawking, Olivia, Master Neeta Daneel, Brenner, Master Melth, First Queen, Haru, Akeera Vel-Jeer, Galen, Miss Brown;animist, master, apprentice, healer
+Z0201;The Witch Haven;Sasha Peyton Smith;2021;12+;Finn, Boss Olan;magician, Sons of Saint Druon
+Z0202;Amari and the Night Brothers (Amari Series);B.B. Alston;2021;8-12 years;Dylan Van Helsing, Raoul Moreau, Sergei Vladimir (Count Vladimir), Abraham Van Helsing;magician
+Z0203;Spell Sweeper;Lee Edward Fodi;2021;8-12 years;"Cara Moone, Harlee Wu, Master Patrick ""Trick"" Quibble, Headwizard Saraya Singh, Gusto, Yuna Bang, Riva Dragonsong, Theradune the Betrayer, Eurybia the Eradicator, Cipher Mourn";wizard, spellcaster
+Z0204;The Troubled Girls of Dragomir Academy;Anne Ursu;2021;8-12 years;High Count Georgescu, High Count Arev, High Count Teitler;sorcerer
+Z0205;The Witch, The Sword, and the Cursed Knights;Alexandria Rogers;2022;8-12 years;Merlin, Mickey Murphy;sorcerer
+Z0206;Alliana, Girl of Dragons;Julie Abe;2022;8-12 years;"Taichiro ""Taichi"" Suzuki, Hayato, Master Yamane, Royal Advisor’s Scrying Wizard";wizard
+Z0207;The Story of Gumluck the Wizard: Book One (Gumluck the Wizard Series);Adam Rex;2023;6-9 years;Gumluck;wizard
+Z0208;Spellstone;Ross Montgomery;2023;9-12 years;Wainwright, Vale, Rishi, Emrys, Mr Onslow;magician, sorcerer, Child of Emrys
+Z0209;Greenwild: The World Behind the Door (Greenwild Series);Pari Thomson;2023;9-12 years;Indigo Podsnap, Ferrus Sheldrake, Gulliver Wildish, Mr. Craven (Cardew), Hal White (Henry Thistledown);Botanist
+Z0210;How To Outwit a Wizard (Seven Suitors for Seven Witches Series);Amy Boyles;2024;14+;Devlin Ross, Storm Grayson;wizard
+Z0211;Daughters of the Lamp (Daughters of the Lamp Series);Nedda Lewers;2024;8-12 years;sorcerer, fiend;sorcerer
+Z0212;Witchspark;Dominique Valente;2024;9-12 years;Uncle Lichen, Sorcerer Ragwort, Lord Ignatius Ragwort;wizard, sorcerer
+Z0213;Friendly Neighborhood Wizard (Friendly Neighborhood Wizard Series);SmilingSatyr;2024;16+;Wil McKenzie;wizard
+Z0214;"A Diamond Bright and Broken 
+(The Gifted Mage)";Holly Davis;2024;14+;Candace;mage 
+Z0215;The Tide and The Stars;Dylan Roche;2024;14+;Udifeus;wizard, magician, old man
+Z0216;Steel & Spellfire;Laura E. Weymouth;2025;14+;Pandora;mage 
+Z0217;Tales of Wizards and Dragons;Terry Pratchett;2025;6-9 years;wizard;wizard
