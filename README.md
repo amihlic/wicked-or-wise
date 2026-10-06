@@ -21,6 +21,9 @@ Corpus metadata for the research project *Wicked or Wise: A Sentiment Analysis o
 | `character_name` | Name of the relevant character(s) |
 | `character_term` | Term used in the text, e.g. *witch*, *crone*, *wizard*, *mage* |
 
+## License
+Data: [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
 ## Contact
 
 **Anna Mihlic**  
